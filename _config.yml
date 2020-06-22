@@ -1,38 +1,42 @@
-title: "Blog Title"
-author: "Blog Author"
-description: "Made with <b style=\"color: #f45;\">&lt;3</b> by <b><a href=\"https://github.com/niklasbuschmann\">@niklasbuschmann</a></b>"
-permalink: /:title/
-lang: "en"
-excerpt_separator: "\n\n\n"
-date_format: "%B %d, %Y"
+title: "penguincoco"
+author: ""
+description: "just a girl that likes to draw and write."
 
-# Layout
+# Jekyll settings
+permalink: /:title/          # see https://jekyllrb.com/docs/permalinks/
+paginate: 10                  # number of articles per page, remove to disable pagination
+excerpt_separator: "\n\n\n"  # indicates the end of the excerpt by two blank lines
 
-sidebar: false               # show a sidebar instead of the usual header
-show_excerpts: false         # show article excerpts on the home page
-show_related: true           # show the previous and next links after every post
-show_description: true       # show the site description in the sidebar
-show_title: false            # always keep the site title visible
+# Page settings
+show_excerpts: true          # show article previews on the home page instead of headlines
+hide_title: false            # remove site heading in the header
+post_footer: true            # show previous and next links at the end of each post
+date_format: "%B %d, %Y"     # see http://shopify.github.io/liquid/filters/date/
 
-# Styling
+# Theme settings
+style: default               # choose between "default", "contrast" and "minimal"
+dark_theme: false            # enables dark mode
 
-dark_header: false           # always keep the header dark
-minimal: false               # use simpler style
+navigation:                  # (optional) site navigation in the header
+  - index.html
+  - myGames.md
 
-# Menu
+icons:                       # (optional) icons in the header, see http://fontawesome.com/icons
+  envelope: "mailto:samantha.s.chuang@gmail.com"
+  instagram: "https://www.instagram.com/penguincoco/"
+  etsy: "https://www.etsy.com/shop/penguincucco/"
+  twitch: "https://www.twitch.tv/penguincoco"
+  itch-io: "https://itch.io/profile/penguincoco"
+  youtube: "https://www.youtube.com/channel/UC5wE9w5h7eawYhbzmW2Ip9g"
 
-navigation:
-  - {file: "index.html", icon: home}
-  - {file: "README.md", icon: address-card}
+comments:                    # embed disqus or isso comments
+#  disqus: ""
+#  isso: ""
 
-external:                    # see http://fontawesome.com/icons
-#  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-#  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-#  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+remote_theme: niklasbuschmann/contrast
 
-comments:
-#  disqus_shortname: ""      # see https://disqus.com/
-#  isso_domain: ""           # see https://posativ.org/isso/
-
-plugins:
+plugins: 
+ - jekyll-remote-theme
  - jekyll-feed
+ - jekyll-paginate
+ - jekyll-default-layout
