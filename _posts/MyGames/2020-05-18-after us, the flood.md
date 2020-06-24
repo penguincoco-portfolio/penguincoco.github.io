@@ -1,7 +1,7 @@
 ---
 layout: post
 title: after us, the flood | DEMO (2020)
-category: myGames
+category: 
 ---
 _A narrative game with rhythm mechanics._
 
