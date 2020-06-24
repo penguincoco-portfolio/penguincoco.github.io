@@ -19,6 +19,10 @@ For one of my intermediate game development courses, the final project was to cl
 
 ### **Project Gallery**
 
+<div align="center">
+<img src="https://media.giphy.com/media/VgYg6w3POiiIsJKX92/giphy.gif"> 
+</div>
+
 ![Star Fox Screenshot 1](/assets/artwork/MyGames/StarFox64Clone/StarFox_1.jpg) 
 ![Star Fox Screenshot 2](/assets/artwork/MyGames/StarFox64Clone/StarFox_2.jpg)
 ![Star Fox Screenshot 3](/assets/artwork/MyGames/StarFox64Clone/StarFox_3.jpg)
