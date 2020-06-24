@@ -7,7 +7,7 @@ _A text-based narrative game taking place in the world of Don Quixote made in Tw
 
 <a href="/myGames"><< Return to My Games Page</a>
 
-	[About](#about-the-don-quixote-quests)	|	[Gallery](#project-gallery)	|	[My Role](#my-role-on-the-project)	|
+[About](#about-the-don-quixote-quests)	|	[Gallery](#project-gallery)	|	[My Role](#my-role-on-the-project)	|
 
 ### **About the Don Quixote Quests**
 Enter the world of Don Quixote, now imagined as an open-world adventure RPG filled with new and already existing characters. Take on the role of Rodrigo, a Santa Hermandad officer, and adventure around the world of 17th century Spain. 
