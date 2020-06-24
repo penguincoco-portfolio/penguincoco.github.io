@@ -8,9 +8,11 @@ In the last few years, I've been part of many projects and have made a handful o
 
 I jump from role to role and often work where most help is needed, but I most frequently act as a 3D artist, programmer and tester!
 
-->
+<p align="center">
+
 [![after us, the flood](/assets/artwork/MyGames/afterus,theflood/after us, the flood_CoverImage.png)]({{ site.baseurl }}{% post_url 2020-05-18-after us, the flood %})
- [![Cloud Forest](/assets/artwork/MyGames/CloudForest/CloudForest_CoverImage.jpg)]({{ site.baseurl }}{% post_url 2020-05-18-Cloud Forest %})
-  [![Don Quixote Quests](/assets/artwork/MyGames/DonQuixote/DonQuixoteQuests_CoverImage.jpg)]({{ site.baseurl }}{% post_url 2019-05-18-Don Quixote %})
-  [![Don Quixote Quests](/assets/artwork/MyGames/StarFox64Clone/StarFox_CoverImage.jpg)]({{ site.baseurl }}{% post_url 2019-05-17-Star Fox Clone %})
- <-
+[![Cloud Forest](/assets/artwork/MyGames/CloudForest/CloudForest_CoverImage.jpg)]({{ site.baseurl }}{% post_url 2020-05-18-Cloud Forest %})
+[![Don Quixote Quests](/assets/artwork/MyGames/DonQuixote/DonQuixoteQuests_CoverImage.jpg)]({{ site.baseurl }}{% post_url 2019-05-18-Don Quixote %})
+[![Don Quixote Quests](/assets/artwork/MyGames/StarFox64Clone/StarFox_CoverImage.jpg)]({{ site.baseurl }}{% post_url 2019-05-17-Star Fox Clone %})
+
+</p>
