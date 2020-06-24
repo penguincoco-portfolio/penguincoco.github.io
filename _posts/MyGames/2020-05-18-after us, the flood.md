@@ -1,11 +1,12 @@
 ---
 layout: post
-title: _after us, the flood_ | DEMO (2020)
+title: _fter us, the flood | DEMO (2020)
 ---
 _A 2D PC narrative game with rhythm mechanics made in Unity._
 
 
 <a href="/myGames"><< Return to My Games Page</a>
+
 [About](#about-after-us-the-flood)	|	[My Role](#my-role-on-the-project)	|
 
 
@@ -24,8 +25,8 @@ You wake up as Piper, an amnesiac with a knack for music. Together with the over
 <img src="https://media.giphy.com/media/fWBhCaIpf5OtnRAId9/giphy.gif"> 
 </div>
 
-![_after us, the flood_ - Rhythm Game](/assets/artwork/MyGames/afterus,theflood/_after us, the flood__rhythmGame.png) 
-![_after us, the flood_ - Overworld](/assets/artwork/MyGames/afterus,theflood/_after us, the flood__overworld1.png)
+![_after us, the flood_ - Rhythm Game](/assets/artwork/MyGames/afterus,theflood/after us, the flood_rhythmGame.png) 
+![_after us, the flood_ - Overworld](/assets/artwork/MyGames/afterus,theflood/after us, the flood_overworld1.png)
 
 
 ### **My Role on the Project**
