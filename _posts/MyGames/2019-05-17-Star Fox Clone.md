@@ -14,7 +14,7 @@ Experience the classic Nintendo game Star Fox 64 remade using Unity3D and now on
 
 **Please check out the game [here](https://penguincoco.itch.io/star-fox-64-clone)!**
 
-For one of my intermediate game development courses, the final project was to clone a low-poly 3D game using Unity. I, along with 3 other students, chose to clone the Meteo level of Nintendo’s Star Fox 64.
+For one of my intermediate game development courses, the final project was to clone a low-poly 3D game using Unity. I, along with 3 other students, chose to clone the Meteo level of Nintendo's Star Fox 64.
 
 
 ### **Project Gallery**
