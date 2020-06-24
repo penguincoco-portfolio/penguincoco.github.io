@@ -1,6 +1,6 @@
 ---
 layout: post
-title: _fter us, the flood | DEMO (2020)
+title: after us, the flood | DEMO (2020)
 ---
 _A 2D PC narrative game with rhythm mechanics made in Unity._
 

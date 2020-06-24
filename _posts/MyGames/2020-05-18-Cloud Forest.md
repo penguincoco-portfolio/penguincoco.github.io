@@ -34,5 +34,5 @@ I was the lead 3D artist and visual director on this project. I was responsible 
 
 
 ### **What I Learned
-Cloud Forest was the largest collaborative project that I’ve done using Unreal Engine. I learned a lot about the technical aspects of the engine such as creating materials in Hypershade, blueprinting advanced gameplay mechanics and using the landscaping tool. 
+Cloud Forest was the largest collaborative project that I've done using Unreal Engine. I learned a lot about the technical aspects of the engine such as creating materials in Hypershade, blueprinting advanced gameplay mechanics and using the landscaping tool. 
 Additionally, this project was my first experience acting as lead visual designer. Not only did I learn about the important decisions necessary to create a visual aesthetic, I also learned how to communicate that vision to others working on the project. 
