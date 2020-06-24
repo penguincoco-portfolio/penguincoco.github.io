@@ -10,4 +10,4 @@ I jump from role to role and often work where most help is needed, but I most fr
 
  [![after us, the flood](/assets/artwork/MyGames/afterus,theflood/after us, the flood_CoverImage.png)]({{ site.baseurl }}{% post_url 2020-05-18-after us, the flood %})
  [![Cloud Forest](/assets/artwork/MyGames/CloudForest/CloudForest_CoverImage.jpg)]({{ site.baseurl }}{% post_url 2020-05-18-Cloud Forest %})
- [![Don Quixote Quests](/assets/artwork/MyGames/DonQuixote/DonQuixoteQuests_CoverImage.jpg)]({{ site.baseurl }}{% post_url 2019-05-18-Don Quixote %})
+
