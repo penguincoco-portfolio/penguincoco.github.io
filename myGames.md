@@ -10,11 +10,7 @@ I jump from role to role and often work where most help is needed, but I most fr
 
 Below is a list of completed projects. Check [here]({{ site.baseurl }}{% post_url 2020-05-18-InProgress %}) for a list of projects in progress! 
 
-<p align="center">
-
 [![after us, the flood](/assets/artwork/MyGames/afterus,theflood/after us, the flood_CoverImage_Long.png)]({{ site.baseurl }}{% post_url 2020-05-18-after us, the flood %})
 [![Cloud Forest](/assets/artwork/MyGames/CloudForest/CloudForest_CoverImage_Long.jpg)]({{ site.baseurl }}{% post_url 2020-05-18-Cloud Forest %})
 [![Don Quixote Quests](/assets/artwork/MyGames/DonQuixote/DonQuixoteQuests_CoverImage_Long.jpg)]({{ site.baseurl }}{% post_url 2019-05-18-Don Quixote %})
 [![Star Fox 64 Clone](/assets/artwork/MyGames/StarFox64Clone/StarFox_CoverImage_Long.jpg)]({{ site.baseurl }}{% post_url 2019-05-17-Star Fox Clone %})
-
-</p>
