@@ -8,7 +8,7 @@ In the last few years, I've been part of many projects and have made a handful o
 
 I jump from role to role and often work where most help is needed, but I most frequently act as a 3D artist, programmer and tester!
 
-Below is a list of completed projects. Check [here]({{ site.baseurl }}{% post_url 2020-05-18-in progress %}) for a list of projects in progress! 
+Below is a list of completed projects. Check [here]({{ site.baseurl }}{% post_url 2020-05-18-InProgress %}) for a list of projects in progress! 
 
 [![after us, the flood](/assets/artwork/MyGames/afterus,theflood/after us, the flood_CoverImage_Long.png)]({{ site.baseurl }}{% post_url 2020-05-18-after us, the flood %})
 [![Cloud Forest](/assets/artwork/MyGames/CloudForest/CloudForest_CoverImage_Long.jpg)]({{ site.baseurl }}{% post_url 2020-05-18-Cloud Forest %})
