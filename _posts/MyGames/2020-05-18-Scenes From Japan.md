@@ -14,6 +14,7 @@ Discover the scenery of life in Japan in this 3D walking sim made in Unreal Engi
 This is intended less as being a game but an exercise in 3D modelling and art, substance painter, some level design and refining knowledge of Unreal Engine.
 
 **Project Start Date: 15 June, 2020**
+
 **Intended Finish Date: habitual** 
 
 
