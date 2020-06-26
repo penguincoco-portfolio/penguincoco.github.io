@@ -27,6 +27,16 @@ Welcome to the Cloud Forest, a calming digital greenhouse. Make your way through
 
 ![Cloud Forest Inside](/assets/artwork/MyGames/CloudForest/CloudForest_Interior.jpg) 
 
+![Cloud Forest Inside](/assets/artwork/MyGames/CloudForest/CloudForest_Model_Lotus.jpg)
+
+![Cloud Forest Inside](/assets/artwork/MyGames/CloudForest/CloudForest_Model_Tree.jpg)
+
+![Cloud Forest Inside](/assets/artwork/MyGames/CloudForest/CloudForest_Model_Platform.jpg)
+
+![Cloud Forest Inside](/assets/artwork/MyGames/CloudForest/CloudForest_Model_Tulip.jpg)
+
+![Cloud Forest Inside](/assets/artwork/MyGames/CloudForest/CloudForest_Model_Flower.jpg)
+
 
 
 ### **My Role on the Project**
