@@ -20,4 +20,6 @@ This is intended less as being a game but an exercise in 3D modelling and art, s
 
 ### **Project Gallery**
 
+Please enjoy various WIPs from the ongoing development of _Scenes From Japan_!
+
 ![Scenes from Japan](/assets/artwork/MyGames/ScenesFromJapan/ScenesFromJapan_WIP1.jpg)

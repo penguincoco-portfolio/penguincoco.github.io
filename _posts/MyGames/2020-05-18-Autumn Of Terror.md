@@ -23,6 +23,8 @@ The project was only intended to be a pitch, but one of my group mates and I lik
 
 ### **Project Gallery**
 
+Please enjoy various WIPs from the ongoing development of _The Autumn of Terror_!
+
 ![Scenes from Japan](/assets/artwork/MyGames/AutumnOfTerror/AutumnOfTerror_WIP1.jpg)
 
 
