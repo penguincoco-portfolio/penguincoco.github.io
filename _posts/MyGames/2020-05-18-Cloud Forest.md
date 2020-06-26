@@ -27,20 +27,19 @@ Welcome to the Cloud Forest, a calming digital greenhouse. Make your way through
 
 ![Cloud Forest Inside](/assets/artwork/MyGames/CloudForest/CloudForest_Interior.jpg) 
 
-![Cloud Forest Inside](/assets/artwork/MyGames/CloudForest/CloudForest_Model_Lotus.jpg)
-
-![Cloud Forest Inside](/assets/artwork/MyGames/CloudForest/CloudForest_Model_Tree.jpg)
-
-![Cloud Forest Inside](/assets/artwork/MyGames/CloudForest/CloudForest_Model_Platform.jpg)
-
-![Cloud Forest Inside](/assets/artwork/MyGames/CloudForest/CloudForest_Model_Tulip.jpg)
-
-![Cloud Forest Inside](/assets/artwork/MyGames/CloudForest/CloudForest_Model_Flower.jpg)
-
-
 
 ### **My Role on the Project**
 I was the lead 3D artist and visual director on this project. I was responsible for creating all of the models in the game (using maya) and defining the visual aesthetic. This included deciding the colour palette, what objects should go into the scene and determining the opacity, emissivity and shape of the material on the digital plants. 
+
+![Cloud Forest Lotus](/assets/artwork/MyGames/CloudForest/CloudForest_Model_Lotus.jpg)
+
+![Cloud Forest Tree](/assets/artwork/MyGames/CloudForest/CloudForest_Model_Tree.jpg)
+
+![Cloud Forest Platform](/assets/artwork/MyGames/CloudForest/CloudForest_Model_Platform.jpg)
+
+![Cloud Forest Tulip](/assets/artwork/MyGames/CloudForest/CloudForest_Model_Tulip.jpg)
+
+![Cloud Forest Flower](/assets/artwork/MyGames/CloudForest/CloudForest_Model_Flower.jpg)
 
 
 ### **What I Learned**
