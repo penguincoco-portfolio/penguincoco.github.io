@@ -5,8 +5,7 @@ category: japanese
 ---
 
 
-<a href="https://chuangsammy.dev/">English</a>                         
-<div style="text-align: right"> <a href="/japanese">日本語</a> </div>
+<a href="https://chuangsammy.dev/">English</a><div style="text-align: right"> <a href="/japanese">日本語</a> </div>
 
 <div align="center">
 <img src="/assets/artwork/Me.jpg" alt="Me">
