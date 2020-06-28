@@ -22,6 +22,8 @@ This is intended less as being a game but an exercise in 3D modelling and art, s
 
 Please enjoy various WIPs from the ongoing development of _Scenes From Japan_!
 
-![Scenes from Japan](/assets/artwork/MyGames/ScenesFromJapan/ScenesFromJapan_WIP1.jpg)
-
 ![Scenes from Japan](/assets/artwork/MyGames/ScenesFromJapan/ScenesFromJapan_WIP2.jpg)
+_WIP Update from 28 June, 2020_
+
+![Scenes from Japan](/assets/artwork/MyGames/ScenesFromJapan/ScenesFromJapan_WIP1.jpg)
+_WIP Update from 26 June, 2020_

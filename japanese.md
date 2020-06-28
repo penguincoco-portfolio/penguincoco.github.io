@@ -35,6 +35,7 @@ category: japanese
 
 <div align="center">
 <img src="https://media.giphy.com/media/VGJl8zB5kVZ98k4eBa/giphy.gif" alt="animated" />
-
+</div>
+<div align="center">
 去年京都にある任天堂のオフィスをおとずれました！
 </div>
