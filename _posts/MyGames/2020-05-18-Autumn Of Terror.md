@@ -16,7 +16,7 @@ In this first-person adventure game, you, Frederick George Abberline, are tasked
 As part of a final project for intermediate game design, the class was tasked with coming up with a detailed pitch for a game. I, along with two classmates, pitched The Autumn of Terror. The pitch detailed it as a Triple-A, Heavy Rain-styled third-person, action-adventure game with multiple playable characters and multiple endings. 
 The project was only intended to be a pitch, my classmate Ron and I liked the idea so much that we've decided to start building it out in Unity. Although it certainly will not be a AAA production, we do still believe we can produce something that is of high quality and enjoyable to play. 
 
-Also, check out Ron's work [here](https://ronojoymitra.itch.io/)!
+Also, please check out Ron's work [here](https://ronojoymitra.itch.io/)!
 
 
 **Project Start Date: 5 June, 2020**
@@ -29,5 +29,6 @@ Also, check out Ron's work [here](https://ronojoymitra.itch.io/)!
 Please enjoy various WIPs from the ongoing development of _The Autumn of Terror_!
 
 ![Scenes from Japan](/assets/artwork/MyGames/AutumnOfTerror/AutumnOfTerror_WIP1.jpg)
+_Work in Progress Update from 25 June, 2020_
 
 
