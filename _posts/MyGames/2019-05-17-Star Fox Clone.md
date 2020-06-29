@@ -7,7 +7,7 @@ _A PC clone of the classic 3D Nintendo game Star Fox 64 made in Unity!_
 
 <a href="/myGames"><< Return to My Games Page</a>
 
-[About](#about-star-fox-64-clone)	|	[Gallery](#project-gallery)	|	[My Role](#my-role-on-the-project)	|
+[About](#about-star-fox-64-clone)	|	[Gallery](#project-gallery)	|	[My Role](#my-role-on-the-project)	|	[What I Learned](#what-i-learned)	|
 
 ### **About Star Fox 64 Clone**
 Experience the classic Nintendo game Star Fox 64 remade using Unity3D and now on PC! Pilot the Arwing, and shoot your way through the Asteroid Field Meteo! 

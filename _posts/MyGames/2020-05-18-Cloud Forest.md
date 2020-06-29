@@ -7,7 +7,7 @@ _A soothing 3D PC walking sim with environment puzzles made in Unreal Engine._
 
 <a href="/myGames"><< Return to My Games Page</a>
 
-[About](#about-cloud-forest)	|	[Gallery](#project-gallery)	|	[My Role](#my-role-on-the-project)	|
+[About](#about-cloud-forest)	|	[Gallery](#project-gallery)	|	[My Role](#my-role-on-the-project)	|	[What I Learned](#what-i-learned)	|
 
 ### **About Cloud Forest**
 Welcome to the Cloud Forest, a calming digital greenhouse. Make your way through the virtual forest and use the powered up lotuses scattered all over the space to dynamically change the space around you. 
