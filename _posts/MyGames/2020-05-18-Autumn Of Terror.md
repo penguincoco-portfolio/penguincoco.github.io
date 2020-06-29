@@ -29,6 +29,7 @@ Also, please check out Ron's work [here](https://ronojoymitra.itch.io/)!
 Please enjoy various WIPs from the ongoing development of _The Autumn of Terror_!
 
 ![Scenes from Japan](/assets/artwork/MyGames/AutumnOfTerror/AutumnOfTerror_WIP1.jpg)
+
 _Work in Progress Update from 25 June, 2020_
 
 
