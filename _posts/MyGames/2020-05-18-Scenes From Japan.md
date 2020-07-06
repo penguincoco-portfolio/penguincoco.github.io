@@ -31,10 +31,12 @@ _I've spent the last 3 days working on a bicycle! A key object in the scene. Mod
 
 #### Work in Progress Update from 28 June, 2020
 ![Scenes from Japan](/assets/artwork/MyGames/ScenesFromJapan/ScenesFromJapan_WIP2.jpg)
+
 _Another update that is more related to testing out the size of the project_ 
 
 
 #### Work in Progress Update from 26 June, 2020
-_A project begins!_
 
 ![Scenes from Japan](/assets/artwork/MyGames/ScenesFromJapan/ScenesFromJapan_WIP1.jpg)
+
+_A project begins!_
