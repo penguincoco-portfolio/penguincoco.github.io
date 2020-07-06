@@ -25,6 +25,7 @@ Please enjoy various WIPs from the ongoing development of _Scenes From Japan_!
 #### Work in Progress Update from 5 July, 2020
 ![Scenes from Japan](/assets/artwork/MyGames/ScenesFromJapan/ScenesFromJapan_WIP_2020_Jul5.jpg)
 ![Scenes from Japan](/assets/artwork/MyGames/ScenesFromJapan/ScenesFromJapan_WIP_2020_Jul5_2.jpg)
+
 _I've spent the last 3 days working on a bicycle! A key object in the scene. Modelling this was a bit difficult, as there were a lot of curves, but it was a good learning process! I took advantage of the curve tool and abused the bevelling. The curves also made UV mapping a little difficult (or at least, more challenging than cube-shaped objects), and it took nearly a day just to finish the map. UV mapping is not my strong suit, so although there's still room for improvement, I'm quite happy with how they came out. The textures are a mix of Substance Painter built-ins and textures found on Substance Share._
 
 
