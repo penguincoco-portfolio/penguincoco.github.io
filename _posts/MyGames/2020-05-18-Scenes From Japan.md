@@ -13,6 +13,8 @@ Discover the scenery of life in Japan in this 3D walking sim made in Unreal Engi
 ### **Why?**
 This is intended less as being a game but an exercise in 3D modelling and art, substance painter, some level design and refining knowledge of Unreal Engine.
 
+I'm not particularly good at drawing. I can draw humans alright, but my environments and landscapes are downright atrocious. But with 3D art, I can finally create the things I've always wanted to create! 
+
 **Project Start Date: 15 June, 2020**
 
 **Intended Finish Date: habitual** 
