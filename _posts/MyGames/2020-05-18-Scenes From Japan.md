@@ -24,6 +24,18 @@ I'm not particularly good at drawing. I can draw humans alright, but my environm
 
 Please enjoy various WIPs from the ongoing development of _Scenes From Japan_!
 
+![Street View Illustration](/assets/artwork/MyGames/ScenesFromJapan/Plan1.jpg)
+
+_Quick imagining of the streetview._
+
+
+![Moodboard](/assets/artwork/MyGames/ScenesFromJapan/Moodboard.jpg)
+
+_Project moodboard._
+
+_______________________________________________________________________________________________________
+
+
 #### Work in Progress Update from 5 July, 2020
 ![Scenes from Japan](/assets/artwork/MyGames/ScenesFromJapan/ScenesFromJapan_WIP_2020_Jul5.jpg)
 ![Scenes from Japan](/assets/artwork/MyGames/ScenesFromJapan/ScenesFromJapan_WIP_2020_Jul5_2.jpg)
@@ -47,17 +59,6 @@ ________________________________________________________________________________
 
 _An early test with the building and utility pole models to get a sense of scale._
 
-
-![Moodboard](/assets/artwork/MyGames/ScenesFromJapan/Moodboard.jpg)
-
-_Project moodboard._
-
-
 ![Blockout](/assets/artwork/MyGames/ScenesFromJapan/NeighbourhoodBlockout.jpg)
 
 _Basic layout sketch._
-
-
-![Street View Illustration](/assets/artwork/MyGames/ScenesFromJapan/Plan1.jpg)
-
-_Quick imagining of the streetview._
