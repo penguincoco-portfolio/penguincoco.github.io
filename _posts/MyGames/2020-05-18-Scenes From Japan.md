@@ -45,4 +45,19 @@ ________________________________________________________________________________
 
 ![Scenes from Japan](/assets/artwork/MyGames/ScenesFromJapan/ScenesFromJapan_WIP1.jpg)
 
-_A project begins!_
+_An early test with the building and utility pole models to get a sense of scale._
+
+
+![Moodboard](/assets/artwork/MyGames/ScenesFromJapan/Moodboard.jpg)
+
+_Project moodboard._
+
+
+![Blockout](/assets/artwork/MyGames/ScenesFromJapan/NeighbourhoodBlockout.jpg)
+
+_Basic blockout._
+
+
+![Street View Illustration](/assets/artwork/MyGames/ScenesFromJapan/Plan1.jpg)
+
+_Quick imagining of the streetview._
