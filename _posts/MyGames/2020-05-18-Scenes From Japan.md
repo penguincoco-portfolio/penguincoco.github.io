@@ -55,7 +55,7 @@ _Project moodboard._
 
 ![Blockout](/assets/artwork/MyGames/ScenesFromJapan/NeighbourhoodBlockout.jpg)
 
-_Basic blockout._
+_Basic layout sketch._
 
 
 ![Street View Illustration](/assets/artwork/MyGames/ScenesFromJapan/Plan1.jpg)
