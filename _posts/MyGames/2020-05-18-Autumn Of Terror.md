@@ -47,4 +47,4 @@ _Blockout with first few models added to the main scene. This area is the main p
 
 ![Autumn of Terror WIP](/assets/artwork/MyGames/AutumnOfTerror/AutumnOfTerror_WIP1.jpg)
 
-_Although the game will be first-person, the player still has a character model. 
+_Although the game will be first-person, the player still has a character model._
