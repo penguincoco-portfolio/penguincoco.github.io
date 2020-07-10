@@ -47,4 +47,4 @@ _Blockout with first few models added to the main scene. This area is the main p
 
 ![Autumn of Terror WIP](/assets/artwork/MyGames/AutumnOfTerror/AutumnOfTerror_WIP1.jpg)
 
-_Although the game will be first-person, the player still has a character model._
+_Although the game will be first-person, the player still has a character model. This was just an early test scene deciding scale, but I'd already made a few models that are the final FBX assets, so here's a little peak of the art direction!_
