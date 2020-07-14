@@ -42,7 +42,7 @@ ________________________________________________________________________________
 
 
 #### Work in Progress Update from 14 July, 2020
-![Scenes from Japan](/assets/artwork/MyGames/ScenesFromJapan/ScenesFromJapan_WIP_2020_Jul13/jpg)
+![Scenes from Japan](/assets/artwork/MyGames/ScenesFromJapan/ScenesFromJapan_WIP_2020_Jul13.jpg)
 
 _Can't have a Japanese neighbourhood scene without a vending machine! This took quite a long time to make. The modelling itself was not as difficult, but I spent a long time making the labels in photoshop (or, rather, abusing the wand and magnetic lasso tools in photoshop!) The vending machine itself still has yet to be textured, but the bottles and buttons are completed._
 
