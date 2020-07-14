@@ -11,6 +11,9 @@ Discover the scenery of life in Japan in this 3D walking sim made in Unreal Engi
 
 
 ### **Why?**
+This is a project that I've been wanting to do for a long time, for many reasons. 
+I lived in Tokyo for a while, and if there was one thing that is incredibly unique to Tokyo, and my favourite part about living in the city, was the mood of residential areas. Despite being two opposite atmospheres, Tokyo neighbourhoods strike such a unique and perfect balance between urban hub and quiet residential life. I want to be able to capture this feeling.
+
 This is intended less as being a game but an exercise in 3D modelling and art, substance painter, some level design and refining knowledge of Unreal Engine.
 
 I'm not particularly good at drawing. I can draw humans alright, but my environments and landscapes are downright atrocious. But with 3D art, I can finally create the things I've always wanted to create! 
@@ -33,9 +36,15 @@ _Quick imagining of the streetview._
 
 ![Moodboard](/assets/artwork/MyGames/ScenesFromJapan/Moodboard.jpg)
 
-_Project moodboard._
+_Project moodboard. The atmosphere of the level should feel crowded (narrow streets; bikes, vending machines, potted plants lining the streets) but calm and quiet. Tokyo, despite being a large city, is very quiet and residential. Along residential streets, there is a somewhat organised chaos of utility poles, vending machines, bicycles, cars, post boxes and garbage collection sites._
 
 _______________________________________________________________________________________________________
+
+
+#### Work in Progress Update from 14 July, 2020
+![Scenes from Japan](/assets/artwork/MyGames/ScenesFromJapan/ScenesFromJapan_WIP_2020_Jul13/jpg)
+
+_Can't have a Japanese neighbourhood scene without a vending machine! This took quite a long time to make. The modelling itself was not as difficult, but I spent a long time making the labels in photoshop (or, rather, abusing the wand and magnetic lasso tools in photoshop!) The vending machine itself still has yet to be textured, but the bottles and buttons are completed._
 
 
 #### Work in Progress Update from 5 July, 2020
