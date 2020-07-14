@@ -25,7 +25,7 @@ I'm not particularly good at drawing. I can draw humans alright, but my environm
 
 ### **Project Gallery and Progress**
 
-[5 July, 2020](#work-in-progress-update-from-5-july-2020)	|	[28 June, 2020](#work-in-progress-update-from-28-june-2020)	|	[26 June, 2020](#work-in-progress-update-from-26-june-2020)	|
+[14 July, 2020](#work-in-progress-update-from-14-july-2020)	|[5 July, 2020](#work-in-progress-update-from-5-july-2020)	|	[28 June, 2020](#work-in-progress-update-from-28-june-2020)	|	[26 June, 2020](#work-in-progress-update-from-26-june-2020)	|
 
 Please enjoy various WIPs from the ongoing development of _Scenes From Japan_!
 
