@@ -24,16 +24,29 @@ My role on this project includes art direction, 3D modeller and player programme
 **Intended Finish Date: End of August, 2020**
 
 
-### **Project Gallery**
+### **Project Gallery and Progress**
+
+[15 July, 2020](#work-in-progress-update-from-15-july-2020)	|	[10 July, 2020](#work-in-progress-update-from-10-july-2020)	|	[29 June, 2020](#work-in-progress-update-from-29-june-2020)	|	[25 June, 2020](#work-in-progress-update-from-25-june-2020)	|
+
 
 Please enjoy various WIPs from the ongoing development of _The Autumn of Terror_!
+
+
+#### Work in Progress Update from 15 July, 2020 
+
+![Autumn of Terror 15 July WIP 1](/assets/artwork/MyGames/AutumnOfTerror/AutumnOfTerror_WIP_2020_Jul14.jpg)
+![Autumn of Terror 15 July WIP 2](/assets/artwork/MyGames/AutumnOfTerror/AutumnOfTerror_WIP_2020_Jul14_2.jpg)
+
+_The game will feature 5 explorable locations: A police station, a pub, a local neighbourhood, main street and the docks. I've spent the last few days drawing layouts and making concept sketches for what the pub will look like. Travelling to the pub will start the player outside of the Black Boot, a pub located in a shady back alley off the main street of Whitechapel. I did lots of research into Victorian pubs in Whitechapel, and am most prominently trying to capture the claustrophobic feeling and narrowness of the interior. I can already say: I'm really looking forward to texturing this area!_
+
 
 #### Work in Progress Update from 10 July, 2020 
 
 ![Autumn of Terror 10 July WIP](/assets/artwork/MyGames/AutumnOfTerror/AutumnOfTerror_WIP_2020_Jul10.jpg)
+
 _Not so much to show this time around, unfortunately, but we have gotten a move on writing character dialogue and the inventory system! Each location will feature a handful of interactable NPCs that you can show evidence to and they will react with information._
 
-_Game writing will be divided up between me and Ron, but I will solely be responsible for the inventory and item system. I originally thougth I had a clear idea of how to implement the inventory system. Technically speaking, it should just be a list and then some UI to display. After a bit of research and the Internet yelling "Oh, god, do not use an array or list", I decided to take the opportunity to learn and implement the inventory using Scriptable Objects! I'd learned about them before, but didn't understand them well the first time around. I followed a mix of tutorials and advice from Unity forums and we now have a functioning inventory system in which the player can pick up items and equip them! Future features will also include being able to open inventory, click and object and reveal some information about it._
+_Game writing will be divided up between me and Ron, but I will solely be responsible for the inventory and item system. I originally thought I had a clear idea of how to implement the inventory system. Technically speaking, it should just be a list and then some UI to display. After a bit of research and the Internet yelling "Oh, god, do not use an array or list", I decided to take the opportunity to learn and implement the inventory using Scriptable Objects! I'd learned about them before, but didn't understand them well the first time around. I followed a mix of tutorials and advice from Unity forums and we now have a functioning inventory system in which the player can pick up items and equip them! Future features will also include being able to open inventory, click and object and reveal some information about it._
 
 
 #### Work in Progress Update from 29 June, 2020
