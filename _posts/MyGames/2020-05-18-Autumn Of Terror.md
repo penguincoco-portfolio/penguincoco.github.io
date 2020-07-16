@@ -60,4 +60,4 @@ _Blockout with first few models added to the main scene. This area is the main p
 
 ![Autumn of Terror WIP](/assets/artwork/MyGames/AutumnOfTerror/AutumnOfTerror_WIP1.jpg)
 
-_Although the game will be first-person, the player still has a character model. This was just an early test scene deciding scale, but I'd already made a few models that are the final FBX assets, so here's a little peak of the art direction!_
+_Although the game will be first-person, the player still has a character model. This was just an early test scene deciding scale, but I'd already made a few models that are the final FBX assets, so here's a little peak of the art direction! We decided that, since neither of us (the two developers) are specialists in animation, the character models will be more human-shaped rather than semi-realistic human figures. Most notably, the models don't have distinct legs. They'll just have to slide along the floor conveyer belt style! It would be ideal for each character to have proper walking animations, but for now, it's unfortunately not a consideration._
