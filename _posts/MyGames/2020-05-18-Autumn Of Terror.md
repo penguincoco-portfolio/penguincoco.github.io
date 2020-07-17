@@ -36,8 +36,13 @@ Please enjoy various WIPs from the ongoing development of _The Autumn of Terror_
 
 ![Autumn of Terror 15 July WIP 1](/assets/artwork/MyGames/AutumnOfTerror/AutumnOfTerror_WIP_2020_Jul14.jpg)
 ![Autumn of Terror 15 July WIP 2](/assets/artwork/MyGames/AutumnOfTerror/AutumnOfTerror_WIP_2020_Jul14_2.jpg)
+![Autumn of Terror 15 July WIP 2](/assets/artwork/MyGames/AutumnOfTerror/AutumnOfTerror_WIP_2020_Jul14_3.jpg)
 
-_The game will feature 5 explorable locations: A police station, a pub, a local neighbourhood, main street and the docks. I've spent the last few days drawing layouts and making concept sketches for what the pub will look like. Travelling to the pub will start the player outside of the Black Boot, a pub located in a shady back alley off the main street of Whitechapel. I did lots of research into Victorian pubs in Whitechapel, and am most prominently trying to capture the claustrophobic feeling and narrowness of the interior. I can already say: I'm really looking forward to texturing this area!_
+_The game will feature 5 explorable locations: A police station, a pub, a local neighbourhood, main street and the docks. I've spent the last few days drawing layouts and making concept sketches for what the pub will look like._ 
+
+_The following two pictures are the scene built in Maya and then brought into Unity, with a few changes and re-arrangements._
+
+_Travelling to the pub will start the player outside of the Black Boot, a pub located in a shady back alley off the main street of Whitechapel. I did lots of research into Victorian pubs in Whitechapel, and am most prominently trying to capture the claustrophobic feeling and narrowness of the interior. Ron will be responsible for lighting the area and I can already say: I'm really looking forward to texturing everything!_
 
 
 #### Work in Progress Update from 10 July, 2020 
