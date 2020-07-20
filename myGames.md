@@ -12,7 +12,7 @@ I jump from role to role and often work where most help is needed, but I most fr
 ### What I'm Working on Right Now
 Please click here for a list of in-progress projects! 
 
-[![In Progress](/assets/artwork/MyGames/WhatImWorkingOn_CoverImage.png)]({{ site.baseurl }}{% post_url 2020-05-18-InProgress %}) for a list of projects in progress! 
+[![In Progress](/assets/artwork/MyGames/WhatImWorkingOn_CoverImage.png)]({{ site.baseurl }}{% post_url 2020-05-18-InProgress %}) 
 
 ### Completed Projects 
 Below is a list of completed projects.
