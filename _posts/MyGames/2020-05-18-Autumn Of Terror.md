@@ -26,10 +26,19 @@ My role on this project includes art direction, 3D modeller and player programme
 
 ### **Project Gallery and Progress**
 
-[15 July, 2020](#work-in-progress-update-from-15-july-2020)	|	[10 July, 2020](#work-in-progress-update-from-10-july-2020)	|	[29 June, 2020](#work-in-progress-update-from-29-june-2020)	|	[25 June, 2020](#work-in-progress-update-from-25-june-2020)	|
+[20 July, 2020](#work-in-progress-update-from-20-july-2020)	|	[15 July, 2020](#work-in-progress-update-from-15-july-2020)	|	[10 July, 2020](#work-in-progress-update-from-10-july-2020)	|	[29 June, 2020](#work-in-progress-update-from-29-june-2020)	|	[25 June, 2020](#work-in-progress-update-from-25-june-2020)	|
 
 
 Please enjoy various WIPs from the ongoing development of _The Autumn of Terror_!
+
+
+#### Work in Progress Update from 15 July, 2020 
+
+![Autumn of Terror 15 July WIP 1](/assets/artwork/MyGames/AutumnOfTerror/PoliceStationLayout.jpg)
+
+_Unfortunately, Ron and I were unable to find a lot of documentation for the layouts of Victorian police stations... So this layout is a mix of modern-day police station layouts and those from the early 1900s! There are a few areas that have been removed, of course, since they have no reason to exist in the game (But maybe we can add in closed doors implying them!) such as restrooms, storage closets, private detective rooms, break rooms, etc... I particularly paid close attention to which rooms connected to each other when designing the layout. For example, in many police stations, the first room (after the front desk area) was the bullpen. Next after these would often be a stretch of small offices, break rooms, rest rooms, etc... (which have been removed for the sake of this project). Then there would come holding cells/the detention area and the interrogation room. Another important thing I noticed is that many police stations have multiple places to enter the interrogation room: one near the detention area (to move suspects easily) and at least one more that leads to the main office area._
+
+_With all of these observations in mind, low and behold, we've got a simplified police station!_
 
 
 #### Work in Progress Update from 15 July, 2020 
