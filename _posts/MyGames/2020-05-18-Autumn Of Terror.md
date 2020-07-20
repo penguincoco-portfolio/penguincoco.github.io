@@ -31,7 +31,7 @@ My role on this project includes art direction, 3D modeller and player programme
 Please enjoy various WIPs from the ongoing development of _The Autumn of Terror_!
 
 
-#### Work in Progress Update from 15 July, 2020 
+#### Work in Progress Update from 20 July, 2020 
 
 ![Autumn of Terror 15 July WIP 1](/assets/artwork/MyGames/AutumnOfTerror/PoliceStationLayout.jpg)
 
