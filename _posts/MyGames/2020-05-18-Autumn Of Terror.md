@@ -9,7 +9,7 @@ title: The Autumn of Terror (2020)
 ### **About The Autumn of Terror**
 Set in Whitechapel, whispers of a murderer are afoot in this dense, poverty-ridden Victorian London Borough. Local police are clueless, and the people are getting restless. Rumors are spreading of a man who calls himself by the name "Jack the Ripper" and stalks the streets, using the cover of darkness to murder the innocent civilians of Whitechapel.  
 
-In this first-person adventure game, you, Frederick George Abberline, are tasked with finding and putting an end to this man's crimes. Walk around Victorian Whitechapel and, with the help of your monocle, speak to civilians and find clues to change the course of history and uncover the identity of one of the most infamous serial killers in history, Jack the Ripper.
+In this first-person open-world styled adventure game, you, Frederick George Abberline, are tasked with finding and putting an end to this man's crimes. Through traversing 5 explorable locations--a police station, a pub, a local neighbourhood, the main street and the docks--speak to civilians and find clues to change the course of history and uncover the identity of one of the most infamous serial killers in history, Jack the Ripper. 
 
 
 ### **Why?**
@@ -27,7 +27,6 @@ My role on this project includes art direction, 3D modeller and player programme
 ### **Project Gallery and Progress**
 
 [20 July, 2020](#work-in-progress-update-from-20-july-2020)	|	[15 July, 2020](#work-in-progress-update-from-15-july-2020)	|	[10 July, 2020](#work-in-progress-update-from-10-july-2020)	|	[29 June, 2020](#work-in-progress-update-from-29-june-2020)	|	[25 June, 2020](#work-in-progress-update-from-25-june-2020)	|
-
 
 Please enjoy various WIPs from the ongoing development of _The Autumn of Terror_!
 
@@ -47,7 +46,7 @@ _With all of these observations in mind, low and behold, we've got a simplified 
 ![Autumn of Terror 15 July WIP 2](/assets/artwork/MyGames/AutumnOfTerror/AutumnOfTerror_WIP_2020_Jul14_2.jpg)
 ![Autumn of Terror 15 July WIP 2](/assets/artwork/MyGames/AutumnOfTerror/AutumnOfTerror_WIP_2020_Jul14_3.jpg)
 
-_The game will feature 5 explorable locations: A police station, a pub, a local neighbourhood, main street and the docks. I've spent the last few days drawing layouts and making concept sketches for what the pub will look like._ 
+_Welcome to the Black Boot! The explorable pub which will be populated with shady NPCs to interact with!_
 
 _The following two pictures are the scene built in Maya and then brought into Unity, with a few changes and re-arrangements._
 
