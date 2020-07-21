@@ -9,7 +9,10 @@ category: japanese
 <div style="text-align: right"> <a href="/japanese">日本語</a> </div>
 
 <div align="center">
-<img src="/assets/artwork/Me.jpg" alt="Me">
+<img src="https://media.giphy.com/media/VGJl8zB5kVZ98k4eBa/giphy.gif" alt="animated" />
+</div>
+<div align="center">
+去年京都にある任天堂のオフィスをおとずれました！
 </div>
 
 ## 私について
@@ -32,10 +35,3 @@ category: japanese
 ゲーム開発者になった前に、ゲームについてあまり考えませんでしたが、ゲームは遊びだけではないと分かってきました。ゲームが人々を結びつけます。ゲームが人々の癒しを助けます。これはプレーヤーだけでなく、開発者にも当てはまります。
 
 自分を発見して、大学時代に好きなことをすることができて光栄でした。ゲーム開発者としてのキャリアを始めるにつれて、自分の好きなことを続けられることを願っています。
-
-<div align="center">
-<img src="https://media.giphy.com/media/VGJl8zB5kVZ98k4eBa/giphy.gif" alt="animated" />
-</div>
-<div align="center">
-去年京都にある任天堂のオフィスをおとずれました！
-</div>
