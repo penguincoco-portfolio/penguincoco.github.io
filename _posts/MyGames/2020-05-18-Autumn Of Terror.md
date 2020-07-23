@@ -16,7 +16,7 @@ In this first-person open-world styled adventure game, you, Frederick George Abb
 As part of a final project for intermediate game design, the class was tasked with coming up with a detailed pitch for a game. I, along with two classmates, pitched The Autumn of Terror. The pitch detailed it as a Triple-A, Heavy Rain-styled third-person, action-adventure game with multiple playable characters and multiple endings. 
 The project was only intended to be a pitch, my classmate Ron (check out their work [here](https://ronojoymitra.itch.io/)!) and I liked the idea so much that we've decided to start building it out in Unity. Although it certainly will not be a AAA production, we do still believe we can produce something that is of high quality and enjoyable to play. 
 
-My role on this project includes lead 3D artist and modeller, level designer, player functionality programmer, UI designer. This project is made in Unity, using Maya, Photoshop and Substance Painter. 
+My technical roles on this project include lead 3D artist and modeller, level designer, player functionality programmer, UI designer and narrative designer/writer. I am also solely responsible for maintaining the design document and ongoing documentation. This project is made in Unity, using Maya, Photoshop and Substance Painter. 
 
 
 **Project Start Date: 5 June, 2020**
