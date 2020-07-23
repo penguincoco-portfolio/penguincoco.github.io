@@ -16,7 +16,7 @@ In this first-person open-world styled adventure game, you, Frederick George Abb
 As part of a final project for intermediate game design, the class was tasked with coming up with a detailed pitch for a game. I, along with two classmates, pitched The Autumn of Terror. The pitch detailed it as a Triple-A, Heavy Rain-styled third-person, action-adventure game with multiple playable characters and multiple endings. 
 The project was only intended to be a pitch, my classmate Ron (check out their work [here](https://ronojoymitra.itch.io/)!) and I liked the idea so much that we've decided to start building it out in Unity. Although it certainly will not be a AAA production, we do still believe we can produce something that is of high quality and enjoyable to play. 
 
-My role on this project includes art direction, 3D modeller and player programmer.
+My role on this project includes lead 3D artist and modeller, level designer, player functionality programmer, UI designer. This project is made in Unity, using Maya, Photoshop and Substance Painter. 
 
 
 **Project Start Date: 5 June, 2020**
@@ -26,14 +26,24 @@ My role on this project includes art direction, 3D modeller and player programme
 
 ### **Project Gallery and Progress**
 
-[20 July, 2020](#work-in-progress-update-from-20-july-2020)	|	[15 July, 2020](#work-in-progress-update-from-15-july-2020)	|	[10 July, 2020](#work-in-progress-update-from-10-july-2020)	|	[29 June, 2020](#work-in-progress-update-from-29-june-2020)	|	[25 June, 2020](#work-in-progress-update-from-25-june-2020)	|
+[23 July, 2020](#work-in-progress-update-from-23-july-2020)	|	[20 July, 2020](#work-in-progress-update-from-20-july-2020)	|	[15 July, 2020](#work-in-progress-update-from-15-july-2020)	|	[10 July, 2020](#work-in-progress-update-from-10-july-2020)	|	[29 June, 2020](#work-in-progress-update-from-29-june-2020)	|	[25 June, 2020](#work-in-progress-update-from-25-june-2020)	|
 
 Please enjoy various WIPs from the ongoing development of _The Autumn of Terror_!
 
 
+#### Work in Progress Update from 23 July, 2020 
+
+![Autumn of Terror 23 July WIP 4](/assets/artwork/MyGames/AutumnOfTerror/AutumnOfTerror_WIP_2020_Jul23_4.jpg)
+![Autumn of Terror 23 July WIP 1](/assets/artwork/MyGames/AutumnOfTerror/AutumnOfTerror_WIP_2020_Jul23.jpg)
+![Autumn of Terror 23 July WIP 2](/assets/artwork/MyGames/AutumnOfTerror/AutumnOfTerror_WIP_2020_Jul23_2.jpg)
+![Autumn of Terror 23 July WIP 3](/assets/artwork/MyGames/AutumnOfTerror/AutumnOfTerror_WIP_2020_Jul23_3.jpg)
+
+_The pub interior and exterior are fully completed!_
+
+
 #### Work in Progress Update from 20 July, 2020 
 
-![Autumn of Terror 15 July WIP 1](/assets/artwork/MyGames/AutumnOfTerror/PoliceStationLayout.jpg)
+![Autumn of Terror 20 July WIP 1](/assets/artwork/MyGames/AutumnOfTerror/PoliceStationLayout.jpg)
 
 _Unfortunately, Ron and I were unable to find a lot of documentation for the layouts of Victorian police stations... So this layout is a mix of modern-day police station layouts and those from the early 1900s! There are a few areas that have been removed, of course, since they have no reason to exist in the game (But maybe we can add in closed doors implying them!) such as restrooms, storage closets, private detective rooms, break rooms, etc... I particularly paid close attention to which rooms connected to each other when designing the layout. For example, in many police stations, the first room (after the front desk area) was the bullpen. Next after these would often be a stretch of small offices, break rooms, rest rooms, etc... (which have been removed for the sake of this project). Then there would come holding cells/the detention area and the interrogation room. Another important thing I noticed is that many police stations have multiple places to enter the interrogation room: one near the detention area (to move suspects easily) and at least one more that leads to the main office area._
 
@@ -44,7 +54,7 @@ _With all of these observations in mind, low and behold, we've got a simplified 
 
 ![Autumn of Terror 15 July WIP 1](/assets/artwork/MyGames/AutumnOfTerror/AutumnOfTerror_WIP_2020_Jul14.jpg)
 ![Autumn of Terror 15 July WIP 2](/assets/artwork/MyGames/AutumnOfTerror/AutumnOfTerror_WIP_2020_Jul14_2.jpg)
-![Autumn of Terror 15 July WIP 2](/assets/artwork/MyGames/AutumnOfTerror/AutumnOfTerror_WIP_2020_Jul14_3.jpg)
+![Autumn of Terror 15 July WIP 23(/assets/artwork/MyGames/AutumnOfTerror/AutumnOfTerror_WIP_2020_Jul14_3.jpg)
 
 _Welcome to the Black Boot! The explorable pub which will be populated with shady NPCs to interact with!_
 
