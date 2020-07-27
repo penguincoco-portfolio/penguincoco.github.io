@@ -64,7 +64,7 @@ _With all of these observations in mind, low and behold, we've got a simplified 
 
 ![Autumn of Terror 15 July WIP 1](/assets/artwork/MyGames/AutumnOfTerror/AutumnOfTerror_WIP_2020_Jul14.jpg)
 ![Autumn of Terror 15 July WIP 2](/assets/artwork/MyGames/AutumnOfTerror/AutumnOfTerror_WIP_2020_Jul14_2.jpg)
-![Autumn of Terror 15 July WIP 23(/assets/artwork/MyGames/AutumnOfTerror/AutumnOfTerror_WIP_2020_Jul14_3.jpg)
+![Autumn of Terror 15 July WIP 3](/assets/artwork/MyGames/AutumnOfTerror/AutumnOfTerror_WIP_2020_Jul14_3.jpg)
 
 _Welcome to the Black Boot! The explorable pub which will be populated with shady NPCs to interact with!_
 
