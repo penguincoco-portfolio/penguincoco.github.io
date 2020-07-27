@@ -26,9 +26,19 @@ My technical roles on this project include lead 3D artist and modeller, level de
 
 ### **Project Gallery and Progress**
 
-[23 July, 2020](#work-in-progress-update-from-23-july-2020)	|	[20 July, 2020](#work-in-progress-update-from-20-july-2020)	|	[15 July, 2020](#work-in-progress-update-from-15-july-2020)	|	[10 July, 2020](#work-in-progress-update-from-10-july-2020)	|	[29 June, 2020](#work-in-progress-update-from-29-june-2020)	|	[25 June, 2020](#work-in-progress-update-from-25-june-2020)	|
+[27 July, 2020](#work-in-progress-update-from-27-july-2020)	|	[23 July, 2020](#work-in-progress-update-from-23-july-2020)	|	[20 July, 2020](#work-in-progress-update-from-20-july-2020)	|	[15 July, 2020](#work-in-progress-update-from-15-july-2020)	|	[10 July, 2020](#work-in-progress-update-from-10-july-2020)	|	[29 June, 2020](#work-in-progress-update-from-29-june-2020)	|	[25 June, 2020](#work-in-progress-update-from-25-june-2020)	|
 
 Please enjoy various WIPs from the ongoing development of _The Autumn of Terror_!
+
+
+#### Work in Progress Update from 23 July, 2020 
+![Autumn of Terror 23 July WIP 4](/assets/artwork/MyGames/AutumnOfTerror/MainStreetLayout.jpg)
+![Autumn of Terror 23 July WIP 4](/assets/artwork/MyGames/AutumnOfTerror/AutumnOfTerror_WIP_2020_Jul27.jpg)
+![Autumn of Terror 23 July WIP 4](/assets/artwork/MyGames/AutumnOfTerror/AutumnOfTerror_WIP_2020_Jul27_2.jpg)
+
+_Something that Ron and I discussed a lot was travelling between locations in this game and ultimately decided there will be two modes of travelling between locations: opening a UI map and teleporting, or walking between locations. The former will work very similarly to how warping works in Breath of the Wild--the player will open a map of Whitechapel, choose the location and be sent there. The latter will be the same as literally walking from one location to another. In the first image, there is a layout of Main Street, which will have access to all four other locations (the pub, the docks, the neighbourhood and the police station). Some other locations will connect to others, but some will not. For example, it will be possible to go straight from the pub to the neighbourhood (since they are adjacent) but impossible to go straight from the police station to the docks. In order to go from the police station to the docks, the player will have to warp or travel back to the Main Street and head south towards the docks. A full map of how to travel around in our adaptation of Whitechapel will be available soon!_
+
+_So far, I've mainly been blocking out and art passing the police station (since it is where the game begins) and the pub. I knew from early on that the Main Street would be one of the more challenging locations to populate with assets because it is an open space. Art passing this area doesn't just end with the areas that the player can move around in, it goes beyond. Into the seeable distance, there has to be models simulating buildings and making it feel like a city. On the first layout image, they lightly whited-out area in the center of the image is the tiny area in which the player can actually move around and interact in. Head too far in one direction and the player will hit a collider that will act as the warp zone to another location. In order to simulate the feeling of a bigger city, I have added a few building models just in the immediate area outside of the interactable zone and plan on making a skybox to further simulate urban life. As a metropolitan hub, the Main Street location will have more models than any other location to simulate business. More NPCs will be placed eventually, and some with navmeshes. I will likely be removing a few wagons on the road, as they will eventually be moving on the street rather than be placed idly like they are right now!_ 
 
 
 #### Work in Progress Update from 23 July, 2020 
