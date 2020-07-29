@@ -12,6 +12,10 @@ Set in Whitechapel, whispers of a murderer are afoot in this dense, poverty-ridd
 In this first-person open-world styled adventure game, you, Frederick George Abberline, are tasked with finding and putting an end to this man's crimes. Through traversing 5 explorable locations--a police station, a pub, a local neighbourhood, the main street and the docks--speak to civilians and find clues to change the course of history and uncover the identity of one of the most infamous serial killers in history, Jack the Ripper. 
 
 
+### **Gamplay Summary**
+The player will walk around, explore, find clues and speak to NPCs to get information on the clues. The player will be able to take items from the inventory, show them to NPCs and the NPCs will react with potentially useful information! The player will also have a notebook, which can be opened and each encountered NPC will have an entry in the notebook and a space for the player to take notes on them! With the information gained from NPCs, take notes and try to deduce the identity of Jack the Ripper! 
+
+
 ### **Why?**
 As part of a final project for intermediate game design, the class was tasked with coming up with a detailed pitch for a game. I, along with two classmates, pitched The Autumn of Terror. The pitch detailed it as a Triple-A, Heavy Rain-styled third-person, action-adventure game with multiple playable characters and multiple endings. 
 The project was only intended to be a pitch, my classmate Ron (check out their work [here](https://ronojoymitra.itch.io/)!) and I liked the idea so much that we've decided to start building it out in Unity. Although it certainly will not be a AAA production, we do still believe we can produce something that is of high quality and enjoyable to play. 
