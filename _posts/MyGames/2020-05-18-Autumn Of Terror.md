@@ -35,7 +35,7 @@ My technical roles on this project include lead 3D artist and modeller, level de
 Please enjoy various WIPs from the ongoing development of _The Autumn of Terror_!
 
 
-#### Work in Progress Update from 23 July, 2020 
+#### Work in Progress Update from 27 July, 2020 
 ![Autumn of Terror 23 July WIP 4](/assets/artwork/MyGames/AutumnOfTerror/MainStreetLayout.jpg)
 ![Autumn of Terror 23 July WIP 4](/assets/artwork/MyGames/AutumnOfTerror/AutumnOfTerror_WIP_2020_Jul27.jpg)
 ![Autumn of Terror 23 July WIP 4](/assets/artwork/MyGames/AutumnOfTerror/AutumnOfTerror_WIP_2020_Jul27_2.jpg)
