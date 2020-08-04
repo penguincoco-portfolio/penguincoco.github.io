@@ -30,9 +30,29 @@ My technical roles on this project include lead 3D artist and modeller, level de
 
 ### **Project Gallery and Progress**
 
-[27 July, 2020](#work-in-progress-update-from-27-july-2020)	|	[23 July, 2020](#work-in-progress-update-from-23-july-2020)	|	[20 July, 2020](#work-in-progress-update-from-20-july-2020)	|	[15 July, 2020](#work-in-progress-update-from-15-july-2020)	|	[10 July, 2020](#work-in-progress-update-from-10-july-2020)	|	[29 June, 2020](#work-in-progress-update-from-29-june-2020)	|	[25 June, 2020](#work-in-progress-update-from-25-june-2020)	|
+[4 August, 2020](#work-in-progress-update-from-4-august-2020)	|	[27 July, 2020](#work-in-progress-update-from-27-july-2020)	|	[23 July, 2020](#work-in-progress-update-from-23-july-2020)	|	[20 July, 2020](#work-in-progress-update-from-20-july-2020)	|	[15 July, 2020](#work-in-progress-update-from-15-july-2020)	|	[10 July, 2020](#work-in-progress-update-from-10-july-2020)	|	[29 June, 2020](#work-in-progress-update-from-29-june-2020)	|	[25 June, 2020](#work-in-progress-update-from-25-june-2020)	|
 
 Please enjoy various WIPs from the ongoing development of _The Autumn of Terror_!
+
+
+#### Work in Progress Update from 4 August, 2020
+![Main Street 2](/assets/artwork/MyGames/AutumnOfTerror/AutumnOfTerror_WIP_2020_Aug2_3.jpg)
+![Main Street 2](/assets/artwork/MyGames/AutumnOfTerror/AutumnOfTerror_WIP_2020_Aug2_4.jpg)
+![Main Street 1](/assets/artwork/MyGames/AutumnOfTerror/AutumnOfTerror_WIP_2020_Aug1.jpg)
+![Main Street 2](/assets/artwork/MyGames/AutumnOfTerror/AutumnOfTerror_WIP_2020_Aug1_2.jpg)
+![Main Street 2](/assets/artwork/MyGames/AutumnOfTerror/AutumnOfTerror_WIP_2020_Aug2.jpg)
+![Main Street 2](/assets/artwork/MyGames/AutumnOfTerror/AutumnOfTerror_WIP_2020_Aug2_2.jpg)
+![Main Street 2](/assets/artwork/MyGames/AutumnOfTerror/AutumnOfTerror_WIP_2020_Aug2_5.jpg)
+
+
+_Holy updates, Batman! I've actually been trying to write an update for the last 3 days, but I've been so busy clacking away at the project and making progress! Ron has been away on vacation for the last week, so I took this opportunity to sprint without having to worry about making changes to the same thing!_
+
+_Most significantly, the Inventory and Notebook system have been completed. The player can pick up objects of interest, they will be added to the inventory (displayed on the left-hand panel in the first image) and clicking on them will make them appear enlarged on the right-hand panel, along with a short, generic description about the object. The second image shows the Notebook. After encountering certain notable NPCs, they will appear in the Notebook. Clicking on their name will display some small information about them and a place for the player to take notes on them!_ 
+
+_On top of polishing up the UI systems, I tackled many tasks (like the day-evening cycle and progression of time, moving between the different areas). I continued adding models to scenes and as of now, the Main Street (third and fourth images), Police Station are also practically completely done. The neighbourhood and docks are nearing completion._
+_I also started lighting the scenes! The pub is mostly lit, the intensities need to be adjusted based on NPC placement, and maybe a little once textures as added as well, but all the light sources have been placed. Adding lights really added a lot of character to the scene!_
+
+_Up until now, we've only been able to test individual systems, but the game should be playtestable (on the narrative) front by the end of the week!_ 
 
 
 #### Work in Progress Update from 27 July, 2020 
@@ -40,7 +60,7 @@ Please enjoy various WIPs from the ongoing development of _The Autumn of Terror_
 ![Autumn of Terror 23 July WIP 4](/assets/artwork/MyGames/AutumnOfTerror/AutumnOfTerror_WIP_2020_Jul27.jpg)
 ![Autumn of Terror 23 July WIP 4](/assets/artwork/MyGames/AutumnOfTerror/AutumnOfTerror_WIP_2020_Jul27_2.jpg)
 
-_Something that Ron and I discussed a lot was travelling between locations in this game and ultimately decided there will be two modes of travelling between locations: opening a UI map and teleporting, or walking between locations. The former will work very similarly to how warping works in Breath of the Wild--the player will open a map of Whitechapel, choose the location and be sent there. The latter will be the same as literally walking from one location to another. In the first image, there is a layout of Main Street, which will have access to all four other locations (the pub, the docks, the neighbourhood and the police station). Some other locations will connect to others, but some will not. For example, it will be possible to go straight from the pub to the neighbourhood (since they are adjacent) but impossible to go straight from the police station to the docks. In order to go from the police station to the docks, the player will have to warp or travel back to the Main Street and head south towards the docks. A full map of how to travel around in our adaptation of Whitechapel will be available soon!_
+_Something that Ron and I discussed a lot was travelling between locations in this game and ultimately decided there will be two modes of travelling between locations: opening a UI map and teleporting, or walking between locations. The former will work very similarly to how warping works in Breath of the Wild--the player will open a map of Whitechapel, choose the location and be sent there. The latter will be the same as literally walking from one location to another. In the first image, there is a layout of Main Street, which will have access to all four other locations (the pub, the docks, the neighbourhood and the police station). Some other locations will connect to others, but some will not. For example, it will be possible to go straight from the pub to the neighbourhood (since they are adjacent) but impossible to go straight from the police station to the docks. In order to go from the police station to the docks, the player will have to warp or travel back to the Main Street and head south towards the docks._
 
 _So far, I've mainly been blocking out and art passing the police station (since it is where the game begins) and the pub. I knew from early on that the Main Street would be one of the more challenging locations to populate with assets because it is an open space. Art passing this area doesn't just end with the areas that the player can move around in, it goes beyond. Into the seeable distance, there has to be models simulating buildings and making it feel like a city. On the first layout image, they lightly whited-out area in the center of the image is the tiny area in which the player can actually move around and interact in. Head too far in one direction and the player will hit a collider that will act as the warp zone to another location. In order to simulate the feeling of a bigger city, I have added a few building models just in the immediate area outside of the interactable zone and plan on making a skybox to further simulate urban life. As a metropolitan hub, the Main Street location will have more models than any other location to simulate business. More NPCs will be placed eventually, and some with navmeshes. I will likely be removing a few wagons on the road, as they will eventually be moving on the street rather than be placed idly like they are right now!_ 
 
