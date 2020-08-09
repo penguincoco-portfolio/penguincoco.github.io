@@ -54,6 +54,8 @@ _I also started lighting the scenes! The pub is mostly lit, the intensities need
 
 _Up until now, we've only been able to test individual systems, but the game should be playtestable (on the narrative) front by the end of the week!_ 
 
+_______________________________________________________________________________________________________
+
 
 #### Work in Progress Update from 27 July, 2020 
 ![Autumn of Terror 23 July WIP 4](/assets/artwork/MyGames/AutumnOfTerror/MainStreetLayout.jpg)
@@ -63,6 +65,8 @@ _Up until now, we've only been able to test individual systems, but the game sho
 _Something that Ron and I discussed a lot was travelling between locations in this game and ultimately decided there will be two modes of travelling between locations: opening a UI map and teleporting, or walking between locations. The former will work very similarly to how warping works in Breath of the Wild--the player will open a map of Whitechapel, choose the location and be sent there. The latter will be the same as literally walking from one location to another. In the first image, there is a layout of Main Street, which will have access to all four other locations (the pub, the docks, the neighbourhood and the police station). Some other locations will connect to others, but some will not. For example, it will be possible to go straight from the pub to the neighbourhood (since they are adjacent) but impossible to go straight from the police station to the docks. In order to go from the police station to the docks, the player will have to warp or travel back to the Main Street and head south towards the docks._
 
 _So far, I've mainly been blocking out and art passing the police station (since it is where the game begins) and the pub. I knew from early on that the Main Street would be one of the more challenging locations to populate with assets because it is an open space. Art passing this area doesn't just end with the areas that the player can move around in, it goes beyond. Into the seeable distance, there has to be models simulating buildings and making it feel like a city. On the first layout image, they lightly whited-out area in the center of the image is the tiny area in which the player can actually move around and interact in. Head too far in one direction and the player will hit a collider that will act as the warp zone to another location. In order to simulate the feeling of a bigger city, I have added a few building models just in the immediate area outside of the interactable zone and plan on making a skybox to further simulate urban life. As a metropolitan hub, the Main Street location will have more models than any other location to simulate business. More NPCs will be placed eventually, and some with navmeshes. I will likely be removing a few wagons on the road, as they will eventually be moving on the street rather than be placed idly like they are right now!_ 
+
+_______________________________________________________________________________________________________
 
 
 #### Work in Progress Update from 23 July, 2020 
@@ -74,6 +78,8 @@ _So far, I've mainly been blocking out and art passing the police station (since
 
 _The pub interior and exterior are fully completed!_
 
+_______________________________________________________________________________________________________
+
 
 #### Work in Progress Update from 20 July, 2020 
 
@@ -82,6 +88,8 @@ _The pub interior and exterior are fully completed!_
 _Unfortunately, Ron and I were unable to find a lot of documentation for the layouts of Victorian police stations... So this layout is a mix of modern-day police station layouts and those from the early 1900s! There are a few areas that have been removed, of course, since they have no reason to exist in the game (But maybe we can add in closed doors implying them!) such as restrooms, storage closets, private detective rooms, break rooms, etc... I particularly paid close attention to which rooms connected to each other when designing the layout. For example, in many police stations, the first room (after the front desk area) was the bullpen. Next after these would often be a stretch of small offices, break rooms, rest rooms, etc... (which have been removed for the sake of this project). Then there would come holding cells/the detention area and the interrogation room. Another important thing I noticed is that many police stations have multiple places to enter the interrogation room: one near the detention area (to move suspects easily) and at least one more that leads to the main office area._
 
 _With all of these observations in mind, low and behold, we've got a simplified police station!_
+
+_______________________________________________________________________________________________________
 
 
 #### Work in Progress Update from 15 July, 2020 
@@ -96,6 +104,8 @@ _The following two pictures are the scene built in Maya and then brought into Un
 
 _Travelling to the pub will start the player outside of the Black Boot, a pub located in a shady back alley off the main street of Whitechapel. I did lots of research into Victorian pubs in Whitechapel, and am most prominently trying to capture the claustrophobic feeling and narrowness of the interior. Ron will be responsible for lighting the area and I can already say: I'm really looking forward to texturing everything!_
 
+_______________________________________________________________________________________________________
+
 
 #### Work in Progress Update from 10 July, 2020 
 
@@ -105,12 +115,16 @@ _Not so much to show this time around, unfortunately, but we have gotten a move 
 
 _Game writing will be divided up between me and Ron, but I will solely be responsible for the inventory and item system. I originally thought I had a clear idea of how to implement the inventory system. Technically speaking, it should just be a list and then some UI to display. After a bit of research and the Internet yelling "Oh, god, do not use an array or list", I decided to take the opportunity to learn and implement the inventory using Scriptable Objects! I'd learned about them before, but didn't understand them well the first time around. I followed a mix of tutorials and advice from Unity forums and we now have a functioning inventory system in which the player can pick up items and equip them! Future features will also include being able to open inventory, click and object and reveal some information about it._
 
+_______________________________________________________________________________________________________
+
 
 #### Work in Progress Update from 29 June, 2020
 
 ![Autumn of Terror WIP](/assets/artwork/MyGames/AutumnOfTerror/AutumnOfTerror_WIP2.jpg)
 
 _Blockout with first few models added to the main scene. This area is the main plaza. The game will feature five different locations total: the main plaza, the police station, a pub, the docks and a Whitechapel neighbourhood._
+
+_______________________________________________________________________________________________________
 
 
 #### Work in Progress Update from 25 June, 2020
