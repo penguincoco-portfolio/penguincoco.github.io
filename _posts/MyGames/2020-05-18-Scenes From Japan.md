@@ -44,7 +44,7 @@ ________________________________________________________________________________
 #### Work in Progress Update from 9 August, 2020
 ![Scenes from Japan](/assets/artwork/MyGames/ScenesFromJapan/ScenesFromJapan_WIP_2020_Aug9.jpg)
 
-_Hey Howdy Hey! It's been a while since I've been able to update this project! The last few weeks, my co-dev and I have been sprinting massively on our project "The Autumn of Terror"! Haven't had a free moment in weeks! Just a minor update on this project to show that it's still alive and kicking! I added models for a little local restaurant, along with a Honda NBox! The NBox will not be placed there permanently (it may be odd to have a car right outside of a restaurant like that! But I've placed it there temporarily to show off the asset!_
+_Hey Howdy Hey! It's been a while since I've been able to update this project! The last few weeks, my co-dev and I have been sprinting massively on our project ["The Autumn of Terror"]({{ site.baseurl }}{% post_url 2020-05-18-Autumn Of Terror %})! Haven't had a free moment in weeks! Just a minor update on this project to show that it's still alive and kicking! I added models for a little local restaurant, along with a Honda NBox! The NBox will not be placed there permanently (it may be odd to have a car right outside of a restaurant like that! But I've placed it there temporarily to show off the asset!_
 
 _______________________________________________________________________________________________________
 
