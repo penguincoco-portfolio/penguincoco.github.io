@@ -18,7 +18,7 @@ Please click here for a list of in-progress projects!
 ### Completed Projects 
 Below is a list of completed projects.
 
-[![after us, the flood](/assets/artwork/MyGames/afterus,theflood/after us, the flood_CoverImage.png)]({{ site.baseurl }}{% post_url 2020-05-18-after us, the flood %})
+[![after us, the flood](/assets/artwork/MyGames/afterus,theflood/after us, the flood_CoverImage_Long.png)]({{ site.baseurl }}{% post_url 2020-05-18-after us, the flood %})
 [![Cloud Forest](/assets/artwork/MyGames/CloudForest/CloudForest_CoverImage.jpg)]({{ site.baseurl }}{% post_url 2020-05-18-Cloud Forest %})
 [![Don Quixote Quests](/assets/artwork/MyGames/DonQuixote/DonQuixoteQuests_CoverImage.jpg)]({{ site.baseurl }}{% post_url 2019-05-18-Don Quixote %})
 [![Star Fox 64 Clone](/assets/artwork/MyGames/StarFox64Clone/StarFox_CoverImage.jpg)]({{ site.baseurl }}{% post_url 2019-05-17-Star Fox Clone %})
