@@ -33,6 +33,8 @@ ________________________________________________________________________________
 
 _Added a bunch of small details to the front of the truck, and it's finally starting to look like Crusty Sean's food truck! Also cut out the windows and did some material testing with the glass, although that isn't entirely visible in these screenshots :(_
 
+_______________________________________________________________________________________________________
+
 
 #### Work in Progress Update from 5 October, 2020
 <div align="center">
