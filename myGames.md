@@ -1,6 +1,6 @@
 ---
 layout: category
-title: "My Games"
+title: "Games"
 category: myGames
 ---
 
