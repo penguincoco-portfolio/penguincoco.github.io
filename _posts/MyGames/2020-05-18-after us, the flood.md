@@ -25,7 +25,7 @@ You wake up as Piper, an amnesiac with a knack for music. Together with the over
 <img src="https://media.giphy.com/media/fWBhCaIpf5OtnRAId9/giphy.gif"> 
 </div>
 
-<a id="raw-url" href="https://raw.githubusercontent.com/penguincoco/penguincoco-portfolio/penguincoco.github.io/blob/master/assets/artwork/MyGames/afterus%2Ctheflood/ChuangSammy_RhythmGameController.pdf">Download FILE</a>
+<a href="penguincoco.github.io/assets/artwork/MyGames/afterus,theflood/ChuangSammy_RhythmGameController.pdf" target="_blank">PDF.</a>
 
 ![_after us, the flood_ - Rhythm Game](/assets/artwork/MyGames/afterus,theflood/after us, the flood_rhythmGame.png) 
 ![_after us, the flood_ - Overworld](/assets/artwork/MyGames/afterus,theflood/after us, the flood_overworld1.png)
