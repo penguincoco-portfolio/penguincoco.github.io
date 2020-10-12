@@ -21,11 +21,11 @@ You wake up as Piper, an amnesiac with a knack for music. Together with the over
 
 ### **Project Gallery**
 
+Below is a collection of images and GIFs from the Rhythm Game. Please look <a href="https://github.com/penguincoco-portfolio/penguincoco.github.io/blob/master/assets/artwork/MyGames/afterus%2Ctheflood/ChuangSammy_RhythmGameController.pdf" target="_blank">[here]</a> for technical documentation and code of the Rhythm Game manager!
+
 <div align="center">
 <img src="https://media.giphy.com/media/fWBhCaIpf5OtnRAId9/giphy.gif"> 
 </div>
-
-<a href="https://github.com/penguincoco-portfolio/penguincoco.github.io/blob/master/assets/artwork/MyGames/afterus%2Ctheflood/ChuangSammy_RhythmGameController.pdf" target="_blank">PDF.</a>
 
 ![_after us, the flood_ - Rhythm Game](/assets/artwork/MyGames/afterus,theflood/after us, the flood_rhythmGame.png) 
 ![_after us, the flood_ - Overworld](/assets/artwork/MyGames/afterus,theflood/after us, the flood_overworld1.png)
