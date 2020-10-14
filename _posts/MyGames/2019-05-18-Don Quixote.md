@@ -35,8 +35,10 @@ Below is a collection of images and GIFs from the game. Please look <a href="htt
 
 
 ### **My Role on the Project**
-Having never read any of the books, I did a lot of in-depth research and ended up with a brief, but still 20-page long, research doc that included things as basic as a summary of both of the books to advanced as thematic elements such as perspective and narration, Quixotism and chivalry and morality, and class and worth. These two side quests and main quest, in tandem, intend to explore morality and through that lens, develop the new add-on character of Rodrigo. 
+Having never read any of the books, I did a lot of in-depth research and ended up with a brief (but still 20-page long) research doc that included things as basic as a summary of both of the books to advanced as thematic elements such as perspective and narration, Quixotism and chivalry and morality, and class and worth. These two side quests and main quest, in tandem, intend to explore morality and through that lens, develop the new add-on character of Rodrigo. 
 
 
 ### **What I Learned**
-This project was my first experience ever using Twine, and I learned a lot about how to use the software. It was also my first major project not just in game writing but also narrative design. As a text-based game, it was difficult trying to give the illusion of being an open-world adventure. It was also difficult to write dialogue that was seemingly branching but still ultimately converged as a linear narrative. This project underwent lots of playtesting and changed a lot based on the feedback, but ultimately was extremely successful and well-received by both my professors and classmates. 
+This project was my first experience ever using Twine, and I learned a lot about how to use the software. Although there were things I wanted to implement (like sound) but ran out of time to do so, it was also a motivator to continue learning about the engine, even after the project ended. 
+
+Growing up, I loved writing. Before this project, I'd written countless short stories, but this was my first major solo project in narrative design and game writing. As a text-based game, it was difficult to give the illusion of being an open-world, branching narrative adventure game. The project underwent lots of playtesting and changed a lot based on the feedback, but ultimately was extremely successful and well-received by both my professors and classmates. 
