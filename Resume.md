@@ -4,5 +4,5 @@ title: "Resume"
 category: resume
 ---
 <div align="center">
-![Resume](/assets/artwork/Resume/ChuangSammy_Resume_Oct14.png)
+![Resume](/assets/artwork/Resume/ChuangSammy_Resume_July31.jpg)
 </div>
