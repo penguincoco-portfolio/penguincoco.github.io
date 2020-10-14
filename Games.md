@@ -4,8 +4,10 @@ title: "Games"
 category: myGames
 ---
 
-In the last few years, I've been part of many projects and have made a handful of games! 
-As a generalist, I hop from role to role and am always ready to put the elbow grease wherever I'm needed! Whether it be fighting git battles, Unity battles, Maya battles, Unreal battles, the most exciting thing about Game Design is that there's always a new challenge to take head on. I've yet to have a day working in game development that I don't learn something new! And what's more exciting than growth? 
+In the last few years, I've been part of many projects and have made a handful of games! Please check them out below.
+
+I'm a wearer of many hats and always ready to put in some elbow grease wherever it's needed, whether that be in narrative design, visual design, technical design and programming, you name it! 
+
 
 ### What I'm Working on Right Now
 Please click here for a list of in-progress projects! 
