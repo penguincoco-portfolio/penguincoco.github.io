@@ -29,8 +29,6 @@ For one of my intermediate game development courses, the final project was to cl
 ![Star Fox Screenshot 4](/assets/artwork/MyGames/StarFox64Clone/StarFox_4.jpg)
 ![Star Fox Enemy Mech](/assets/artwork/MyGames/StarFox64Clone/StarFox_EnemyMech.jpg)
 
-_The Enemy Mech_
-
 ### **My Role on the Project**
 
 As part of the requirements for the final project, all team members were required to program and model. My major contribution to this project, codewise, was the implementation of shooting (basic shooting, tripleshot, locking onto targets, charged shooting). I also created the menu system and handled all UI elements. 
