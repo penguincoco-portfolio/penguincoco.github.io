@@ -27,6 +27,8 @@ In these three side quests, you play as Rodrigo, a Santa Hermandad officer that 
 
 ### **Project Gallery**
 
+Below is a collection of images and GIFs from the Rhythm Game. Please look <a href="https://github.com/penguincoco-portfolio/penguincoco.github.io/blob/master/assets/artwork/MyGames/afterus%2Ctheflood/ChuangSammy_RhythmGameController.pdf" target="_blank">[here]</a> for technical documentation and code of the Rhythm Game manager!
+
 ![Don Quixote Screenshot1](/assets/artwork/MyGames/DonQuixote/DonQuixote_Screenshot2.jpg) 
 ![Don Quixote Screenshot2](/assets/artwork/MyGames/DonQuixote/DonQuixote_Cardenio_Screenshot2.jpg)
 ![Don Quixote Screenshot3](/assets/artwork/MyGames/DonQuixote/DonQuixote_AndresJuanHaldudo_Screenshot3.jpg)
