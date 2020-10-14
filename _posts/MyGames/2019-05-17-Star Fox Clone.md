@@ -21,11 +21,12 @@ Experience the classic Nintendo game Star Fox 64 remade using Unity3D and now on
 <img src="https://media.giphy.com/media/VgYg6w3POiiIsJKX92/giphy.gif"> 
 </div>
 
-![Star Fox Screenshot 1](/assets/artwork/MyGames/StarFox64Clone/StarFox_1.jpg) 
+<div align="center"> ![Star Fox Screenshot 1](/assets/artwork/MyGames/StarFox64Clone/StarFox_1.jpg) </div>
 ![Star Fox Screenshot 2](/assets/artwork/MyGames/StarFox64Clone/StarFox_2.jpg)
 ![Star Fox Screenshot 3](/assets/artwork/MyGames/StarFox64Clone/StarFox_3.jpg)
 ![Star Fox Screenshot 4](/assets/artwork/MyGames/StarFox64Clone/StarFox_4.jpg)
-![Star Fox Enemy Mech](/assets/artwork/MyGames/StarFox64Clone/StarFox_EnemyMech.jpg)
+<div align="center"> ![Star Fox Enemy Mech](/assets/artwork/MyGames/StarFox64Clone/StarFox_EnemyMech.jpg) </div>
+
 _The Enemy Mech_
 
 ### **My Role on the Project**
