@@ -23,11 +23,11 @@ For one of my intermediate game development courses, the final project was to cl
 <img src="https://media.giphy.com/media/VgYg6w3POiiIsJKX92/giphy.gif"> 
 </div>
 
-<div align="center"> ![Star Fox Screenshot 1](/assets/artwork/MyGames/StarFox64Clone/StarFox_1.jpg) </div>
+![Star Fox Screenshot 1](/assets/artwork/MyGames/StarFox64Clone/StarFox_1.jpg)
 ![Star Fox Screenshot 2](/assets/artwork/MyGames/StarFox64Clone/StarFox_2.jpg)
 ![Star Fox Screenshot 3](/assets/artwork/MyGames/StarFox64Clone/StarFox_3.jpg)
 ![Star Fox Screenshot 4](/assets/artwork/MyGames/StarFox64Clone/StarFox_4.jpg)
-<div align="center"> ![Star Fox Enemy Mech](/assets/artwork/MyGames/StarFox64Clone/StarFox_EnemyMech.jpg) </div>
+![Star Fox Enemy Mech](/assets/artwork/MyGames/StarFox64Clone/StarFox_EnemyMech.jpg)
 
 _The Enemy Mech_
 
