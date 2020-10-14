@@ -24,8 +24,6 @@ minimal: false               # use simpler style
 navigation:
   - {file: "index.html", icon: home}
   - {file: "Games.md", icon: address-card}
-  - {file: "otherWorks.md", icon: address-card}
-  - {file: "Resume.md", icon: address-card}
 
 external:                    # see http://fontawesome.com/icons
 #  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
