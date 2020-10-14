@@ -5,7 +5,7 @@ title: Don Quixote Quests (2019)
 _A text-based narrative game taking place in the world of Don Quixote made in Twine._
 
 
-<a href="/myGames"><< Return to My Games Page</a>
+<a href="/Games"><< Return to My Games Page</a>
 
 [About](#about-the-don-quixote-quests)	|	[Gallery](#project-gallery)	|	[My Role](#my-role-on-the-project)	|	[What I Learned](#what-i-learned)	|
 

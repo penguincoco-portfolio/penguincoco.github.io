@@ -5,7 +5,7 @@ title: after us, the flood | DEMO (2020)
 _A 2D PC narrative game with rhythm mechanics made in Unity._
 
 
-<a href="/myGames"><< Return to My Games Page</a>
+<a href="/Games"><< Return to My Games Page</a>
 
 [About](#about-after-us-the-flood)	|	[Gallery](#project-gallery)	|	[My Role](#my-role-on-the-project)	|	[What I Learned](#what-i-learned)	|
 

@@ -5,7 +5,7 @@ title: Cloud Forest (2020)
 _A soothing 3D PC walking sim with environment puzzles made in Unreal Engine._
 
 
-<a href="/myGames"><< Return to My Games Page</a>
+<a href="/Games"><< Return to My Games Page</a>
 
 [About](#about-cloud-forest)	|	[Gallery](#project-gallery)	|	[My Role](#my-role-on-the-project)	|	[What I Learned](#what-i-learned)	|
 
