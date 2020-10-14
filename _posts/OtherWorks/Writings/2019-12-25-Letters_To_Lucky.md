@@ -189,10 +189,10 @@ Samara wasn't even sure she was ready to be there again yet. She bit down hard o
 
 Clutching the box close to her chest, she peered down at the smooth stone in front of her.
 
-                                    In Loving Memory of
-                                        Lucky Hibi
-                                The girl with the biggest heart
-                                 November, 1997 ~ January, 2017
+                                            In Loving Memory of
+                                                Lucky Hibi
+                                        The girl with the biggest heart
+                                            November, 1997 ~ January, 2017
 
 "I, uh, I'm sorry that I didn't come see you sooner... I... I got sick for a while and it was bad. I had to see the doctor, was kept in the hospital for a while, prescribed medication. All of it... I..."
 
