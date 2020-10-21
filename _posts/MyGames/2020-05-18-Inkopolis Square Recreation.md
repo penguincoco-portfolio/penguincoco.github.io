@@ -18,9 +18,21 @@ I began this process on the 5th of October, 2020, and it may take a long time to
 
 
 ### **Project Gallery and Progress**
-[12 October, 2020](#work-in-progress-update-from-8-october-2020)	|	[8 October, 2020](#work-in-progress-update-from-8-october-2020)	|	[5 October, 2020](#work-in-progress-update-from-5-october-2020)
+[21 October, 2020](#work-in-progress-update-from-21-october-2020)	|	[8 October, 2020](#work-in-progress-update-from-8-october-2020)	|	[5 October, 2020](#work-in-progress-update-from-5-october-2020)
 
 _______________________________________________________________________________________________________
+
+
+#### Work in Progress Update from 21 October, 2020
+![Crust Bucket WIP 1](/assets/artwork/MyGames/InkopolisSquareRecreation/InkopolisSquareRecreation_21Oct.jpg)
+![Crust Bucket WIP 1](/assets/artwork/MyGames/InkopolisSquareRecreation/ClothesShoppe_WIP3.1.jpg)
+![Crust Bucket WIP 2](/assets/artwork/MyGames/InkopolisSquareRecreation/ClothesShoppe_WIP3.2.jpg)
+![Crust Bucket WIP 3](/assets/artwork/MyGames/InkopolisSquareRecreation/ClothesShoppe_WIP3.3.jpg)
+![Crust Bucket WIP 4](/assets/artwork/MyGames/InkopolisSquareRecreation/ClothesShoppe_WIP3.4.jpg)
+
+_Completed model for Ye Olde Cloth Shoppe and a view of the Level in UE4!_
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________
 
 
 #### Work in Progress Update from 12 October, 2020
