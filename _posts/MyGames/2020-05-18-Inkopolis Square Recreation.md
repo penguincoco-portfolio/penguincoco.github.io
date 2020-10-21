@@ -18,7 +18,7 @@ I began this process on the 5th of October, 2020, and it may take a long time to
 
 
 ### **Project Gallery and Progress**
-[21 October, 2020](#work-in-progress-update-from-21-october-2020)	|	[8 October, 2020](#work-in-progress-update-from-8-october-2020)	|	[5 October, 2020](#work-in-progress-update-from-5-october-2020)
+[21 October, 2020](#work-in-progress-update-from-21-october-2020)	|	[12 October, 2020](#work-in-progress-update-from-12-october-2020)	|		|	[8 October, 2020](#work-in-progress-update-from-8-october-2020)	|	[5 October, 2020](#work-in-progress-update-from-5-october-2020)
 
 _______________________________________________________________________________________________________
 
