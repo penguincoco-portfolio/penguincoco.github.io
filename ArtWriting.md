@@ -1,6 +1,6 @@
 ---
 layout: category
-title: "Art and Writing Samples"
+title: "Art and Writing"
 category: OtherWorks
 ---
 
