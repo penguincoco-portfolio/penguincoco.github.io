@@ -26,6 +26,11 @@ navigation:
   - {file: "Games.md", icon: address-card}
   - {file: "OtherWorks.md", icon: address-card}
   - {file: "Resume.md", icon: address-card}
+  - {file: "Contact.md", icon: address-card}
+
+icons:                       # (optional) icons in the header, see http://fontawesome.com/icons
+  envelope: "mailto:samantha.s.chuang@gmail.com"
+  instagram: "https://www.instagram.com/penguincoco/"
 
 external:                    # see http://fontawesome.com/icons
 #  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
