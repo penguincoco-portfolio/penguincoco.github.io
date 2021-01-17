@@ -18,7 +18,7 @@ The game is still in development, and set to be released in Spring 2021! Please 
 
 As one of the lead engineers, I am largely responsible for camera programming, creature programming, visual effects design and programming and narrative system implementation. As a Unity developer, I am constantly helping out sound designers, level designers and artists to implement the assets they create and make sure they are triggered properly. 
 
-On top of this, I've also been brought into a Game Designer role and Visual Designer role. I frequently help the Level Designer design and test certain segments of levels as well as use the modular assets given by the Environment Artists to dress the scene in Unity and make it come to life. 
+On top of this, I've also been brought into a Game Designer role and Visual Designer role. I frequently help the Level Designer design and test certain segments of levels as well as use the modular assets given by the Environment Artists to dress the scene in Unity and make it come to life. So far, I've done the majority of the lighting design on the level as well.
 
 
 ### **What I Learned**

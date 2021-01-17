@@ -19,6 +19,16 @@ I began this process on the 5th of October, 2020, and it may take a long time to
 
 ### **Project Gallery and Progress**
 
+![Crust Bucket WIP 1](/assets/artwork/MyGames/InkopolisSquareRecreation/Recreation_17Jan.jpg)
+![Crust Bucket WIP 2](/assets/artwork/MyGames/InkopolisSquareRecreation/Recreation_17Jan2.jpg)
+![Crust Bucket WIP 3](/assets/artwork/MyGames/InkopolisSquareRecreation/Recreation_17Jan3.jpg)
+![Crust Bucket WIP 4](/assets/artwork/MyGames/InkopolisSquareRecreation/Recreation_17Jan4.jpg)
+
+_Project update, as of 17 Janauary, 2021_
+
+________________________________________________________________________________________________________
+
+
 ![Crust Bucket WIP 1](/assets/artwork/MyGames/InkopolisSquareRecreation/ShellaFresh_WIP1.1.jpg)
 ![Crust Bucket WIP 2](/assets/artwork/MyGames/InkopolisSquareRecreation/ShellaFresh_WIP1.2.jpg)
 ![Crust Bucket WIP 3](/assets/artwork/MyGames/InkopolisSquareRecreation/ShellaFresh_WIP1.3.jpg)
