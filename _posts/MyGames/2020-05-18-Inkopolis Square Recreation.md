@@ -18,12 +18,7 @@ I began this process on the 5th of October, 2020, and it may take a long time to
 
 
 ### **Project Gallery and Progress**
-[26 October, 2020](#work-in-progress-update-from-26-october-2020)	|	[21 October, 2020](#work-in-progress-update-from-21-october-2020)	|	[12 October, 2020](#work-in-progress-update-from-12-october-2020)	|	[8 October, 2020](#work-in-progress-update-from-8-october-2020)	|	[5 October, 2020](#work-in-progress-update-from-5-october-2020)
 
-_______________________________________________________________________________________________________
-
-
-#### Work in Progress Update from 26 October, 2020
 ![Crust Bucket WIP 1](/assets/artwork/MyGames/InkopolisSquareRecreation/ShellaFresh_WIP1.1.jpg)
 ![Crust Bucket WIP 2](/assets/artwork/MyGames/InkopolisSquareRecreation/ShellaFresh_WIP1.2.jpg)
 ![Crust Bucket WIP 3](/assets/artwork/MyGames/InkopolisSquareRecreation/ShellaFresh_WIP1.3.jpg)
@@ -34,7 +29,6 @@ _Completed model for Ye Olde Cloth Shoppe and a view of the Level in UE4!_
 ________________________________________________________________________________________________________
 
 
-#### Work in Progress Update from 21 October, 2020
 ![Crust Bucket WIP 1](/assets/artwork/MyGames/InkopolisSquareRecreation/InkopolisSquareRecreation_21Oct.jpg)
 ![Crust Bucket WIP 1](/assets/artwork/MyGames/InkopolisSquareRecreation/ClothesShoppe_WIP3.1.jpg)
 ![Crust Bucket WIP 2](/assets/artwork/MyGames/InkopolisSquareRecreation/ClothesShoppe_WIP3.2.jpg)
@@ -46,7 +40,6 @@ _Completed model for Ye Olde Cloth Shoppe and a view of the Level in UE4!_
 ________________________________________________________________________________________________________
 
 
-#### Work in Progress Update from 12 October, 2020
 ![Crust Bucket WIP 1](/assets/artwork/MyGames/InkopolisSquareRecreation/CrustBucket_WIP6.1.jpg)
 ![Crust Bucket WIP 2](/assets/artwork/MyGames/InkopolisSquareRecreation/CrustBucket_WIP6.2.jpg)
 ![Crust Bucket WIP 3](/assets/artwork/MyGames/InkopolisSquareRecreation/CrustBucket_WIP6.3.jpg)
@@ -56,7 +49,6 @@ ________________________________________________________________________________
 _______________________________________________________________________________________________________
 
 
-#### Work in Progress Update from 8 October, 2020
 ![Crust Bucket WIP 1](/assets/artwork/MyGames/InkopolisSquareRecreation/CrustBucket_WIP2.jpg)
 ![Crust Bucket WIP 2](/assets/artwork/MyGames/InkopolisSquareRecreation/CrustBucket_WIP2.4.jpg)
 ![Crust Bucket WIP 3](/assets/artwork/MyGames/InkopolisSquareRecreation/CrustBucket_WIP2.3.jpg)
@@ -67,7 +59,6 @@ _Added a bunch of small details to the front of the truck, and it's finally star
 _______________________________________________________________________________________________________
 
 
-#### Work in Progress Update from 5 October, 2020
 <div align="center">
 <img src="https://media.giphy.com/media/42M6xcwL8PIBO3EjQE/giphy.gif"> 
 </div>
