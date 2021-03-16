@@ -19,39 +19,41 @@ I began this process on the 5th of October, 2020, and it may take a long time to
 
 ### **Project Gallery and Progress**
 
-![Crust Bucket WIP 1](/assets/artwork/MyGames/InkopolisSquareRecreation/Recreation_12Mar.png)
-![Crust Bucket WIP 2](/assets/artwork/MyGames/InkopolisSquareRecreation/Recreation_12Mar2.png)
-![Crust Bucket WIP 3](/assets/artwork/MyGames/InkopolisSquareRecreation/Recreation_12Mar3.png)
-![Crust Bucket WIP 4](/assets/artwork/MyGames/InkopolisSquareRecreation/Recreation_12Mar4.png)
+![Progress in Unreal](/assets/artwork/MyGames/InkopolisSquareRecreation/Recreation_12Mar.png)
+![Progress in Unreal](/assets/artwork/MyGames/InkopolisSquareRecreation/Recreation_12Mar2.png)
+![Progress in Unreal](/assets/artwork/MyGames/InkopolisSquareRecreation/Recreation_12Mar3.png)
+![Progress in Unreal](/assets/artwork/MyGames/InkopolisSquareRecreation/Recreation_12Mar4.png)
 
 _Project update, as of 12 March, 2021_
 
 ________________________________________________________________________________________________________
-![Crust Bucket WIP 1](/assets/artwork/MyGames/InkopolisSquareRecreation/Recreation_17Jan.png)
-![Crust Bucket WIP 2](/assets/artwork/MyGames/InkopolisSquareRecreation/Recreation_17Jan2.png)
-![Crust Bucket WIP 3](/assets/artwork/MyGames/InkopolisSquareRecreation/Recreation_17Jan3.png)
-![Crust Bucket WIP 4](/assets/artwork/MyGames/InkopolisSquareRecreation/Recreation_17Jan4.png)
+
+
+![Progress in Unreal](/assets/artwork/MyGames/InkopolisSquareRecreation/Recreation_17Jan.png)
+![Progress in Unreal](/assets/artwork/MyGames/InkopolisSquareRecreation/Recreation_17Jan2.png)
+![Progress in Unreal](/assets/artwork/MyGames/InkopolisSquareRecreation/Recreation_17Jan3.png)
+![Progress in Unreal](/assets/artwork/MyGames/InkopolisSquareRecreation/Recreation_17Jan4.png)
 
 _Project update, as of 17 Janauary, 2021_
 
 ________________________________________________________________________________________________________
 
 
-![Crust Bucket WIP 1](/assets/artwork/MyGames/InkopolisSquareRecreation/ShellaFresh_WIP1.1.jpg)
-![Crust Bucket WIP 2](/assets/artwork/MyGames/InkopolisSquareRecreation/ShellaFresh_WIP1.2.jpg)
-![Crust Bucket WIP 3](/assets/artwork/MyGames/InkopolisSquareRecreation/ShellaFresh_WIP1.3.jpg)
-![Crust Bucket WIP 4](/assets/artwork/MyGames/InkopolisSquareRecreation/ShellaFresh_WIP1.4.jpg)
+![Shella Fresh](/assets/artwork/MyGames/InkopolisSquareRecreation/ShellaFresh_WIP1.1.jpg)
+![Shella Fresh](/assets/artwork/MyGames/InkopolisSquareRecreation/ShellaFresh_WIP1.2.jpg)
+![Shella Fresh](/assets/artwork/MyGames/InkopolisSquareRecreation/ShellaFresh_WIP1.3.jpg)
+![Shella Fresh](/assets/artwork/MyGames/InkopolisSquareRecreation/ShellaFresh_WIP1.4.jpg)
 
 _Completed model for Ye Olde Cloth Shoppe and a view of the Level in UE4!_
 
 ________________________________________________________________________________________________________
 
 
-![Crust Bucket WIP 1](/assets/artwork/MyGames/InkopolisSquareRecreation/InkopolisSquareRecreation_21Oct.jpg)
-![Crust Bucket WIP 1](/assets/artwork/MyGames/InkopolisSquareRecreation/ClothesShoppe_WIP3.1.jpg)
-![Crust Bucket WIP 2](/assets/artwork/MyGames/InkopolisSquareRecreation/ClothesShoppe_WIP3.2.jpg)
-![Crust Bucket WIP 3](/assets/artwork/MyGames/InkopolisSquareRecreation/ClothesShoppe_WIP3.3.jpg)
-![Crust Bucket WIP 4](/assets/artwork/MyGames/InkopolisSquareRecreation/ClothesShoppe_WIP3.4.jpg)
+![Clothes Shoppe](/assets/artwork/MyGames/InkopolisSquareRecreation/InkopolisSquareRecreation_21Oct.jpg)
+![Clothes Shoppe](/assets/artwork/MyGames/InkopolisSquareRecreation/ClothesShoppe_WIP3.1.jpg)
+![Clothes Shoppe](/assets/artwork/MyGames/InkopolisSquareRecreation/ClothesShoppe_WIP3.2.jpg)
+![Clothes Shoppe](/assets/artwork/MyGames/InkopolisSquareRecreation/ClothesShoppe_WIP3.3.jpg)
+![Clothes Shoppe](/assets/artwork/MyGames/InkopolisSquareRecreation/ClothesShoppe_WIP3.4.jpg)
 
 _Completed model for Ye Olde Cloth Shoppe and a view of the Level in UE4!_
 
