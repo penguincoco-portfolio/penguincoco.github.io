@@ -11,7 +11,7 @@ Metamorphosis is a 2D Puzzle Platformer made in Unity that is aboutabout empathi
 
 Through eating toxic goo, the Player character can use the energy drawn from it to save creatures trapped by this invasive toxicity.
 
-The game is still in development, and set to be released in Spring 2021! Please check the project's update on [Twitter](https://twitter.com/Metamorph_Game)!
+The game is still in development, and set to be released in Spring 2021! Please find the Project's website [here](http://www.metamorphosisthegame.com/)!
 
 
 ### **My Role on the Project**
