@@ -4,8 +4,6 @@ title: Inkopolis Square Recreation in UE4
 ---
 
 
-[<< Return to In Progress]({{ site.baseurl }}{% post_url 2020-05-18-InProgress %})
-
 ### **About Recreating Inkopolis Square**
 A recreation of Inkopolis Square from Splatoon 2, all modelled in Maya and assembled in UE4! 
 
