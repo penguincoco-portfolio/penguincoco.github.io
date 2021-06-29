@@ -37,6 +37,15 @@ _Project update, as of 29 June, 2021_
 ________________________________________________________________________________________________________
 
 
+![Progress in Unreal](/assets/artwork/MyGames/InkopolisSquareRecreation/Recreation_12Mar.png)
+![Progress in Unreal](/assets/artwork/MyGames/InkopolisSquareRecreation/Recreation_12Mar2.png)
+![Progress in Unreal](/assets/artwork/MyGames/InkopolisSquareRecreation/Recreation_12Mar3.png)
+![Progress in Unreal](/assets/artwork/MyGames/InkopolisSquareRecreation/Recreation_12Mar4.png)
+
+_Project update, as of 12 March, 2021_
+
+_______________________________________________________________________________________________________
+
 ![Progress in Unreal](/assets/artwork/3D Modelling/InkopolisSquareRecreation/Recreation_17Jan.png)
 ![Progress in Unreal](/assets/artwork/3D Modelling/InkopolisSquareRecreation/Recreation_17Jan2.png)
 ![Progress in Unreal](/assets/artwork/3D Modelling/InkopolisSquareRecreation/Recreation_17Jan3.png)
