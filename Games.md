@@ -10,9 +10,9 @@ I'm a wearer of many hats and always ready to put in some elbow grease wherever 
 
 
 ### What I'm Working on Right Now
-Please click here for a list of in-progress projects! 
 
-[![In Progress](/assets/artwork/MyGames/WhatImWorkingOn_CoverImage_LongInvisible.png)]({{ site.baseurl }}{% post_url 2020-05-18-InProgress %}) 
+<!--- [![In Progress](/assets/artwork/MyGames/WhatImWorkingOn_CoverImage_LongInvisible.png)]({{ site.baseurl }}{% post_url 2020-05-18-InProgress %}) -->
+[![Rewilding](/assets/artwork/MyGames/Rewilding/Rewilding_CoverImage_LongInvisible.jpg)](https://twitter.com/heavymeadow_)
 
 
 ### Completed Projects 
