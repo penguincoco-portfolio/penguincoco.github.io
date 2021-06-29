@@ -26,6 +26,7 @@ navigation:
   - {file: "Games.md", icon: address-card}
   - {file: "ArtWriting.md", icon: address-card}
   - {file: "Resume.md", icon: address-card}
+  - {file: "3DModelling.md", icon: address-card}
 #  - {file: "Contact.md", icon: address-card}
 
 icons:                       # (optional) icons in the header, see http://fontawesome.com/icons
