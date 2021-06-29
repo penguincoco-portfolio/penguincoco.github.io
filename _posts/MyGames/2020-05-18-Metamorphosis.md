@@ -7,11 +7,9 @@ title: Metamorphosis
 [<< Return to In Progress]({{ site.baseurl }}{% post_url 2020-05-18-InProgress %})
 
 ### **About Metamorphosis**
-Metamorphosis is a 2D Puzzle Platformer made in Unity that is aboutabout empathizing and forming a personal connection with nature by performing selfless acts for the good of the environment. 
+Metamorphosis is a 2D Puzzle Platformer made in Unity that is aboutabout empathizing and forming a personal connection with nature by performing selfless acts for the good of the environment. Through eating toxic goo, the Player character uses the energy drawn from it to save creatures trapped by this invasive toxicity.
 
-Through eating toxic goo, the Player character can use the energy drawn from it to save creatures trapped by this invasive toxicity.
-
-The game is still in development, and set to be released in Spring 2021! Please find the Project's website [here](http://www.metamorphosisthegame.com/)!
+Please find the Project's website [here](http://www.metamorphosisthegame.com/)!
 
 
 ### **My Role on the Project**
@@ -23,6 +21,6 @@ On top of this, I've also been brought into a Game Designer role and Visual Desi
 
 ### **What I Learned**
 
-Just like how the project is still ongoing, I am still ongoing learning things every day to make this project the best it can be.
+This project was a huge learning experience for me. I learned a lot about camera programming, scripting cutscenes and designing a locked puzzle system (for example, if you don't complete an optional puzzle in the beginning of the level, the conditions of the environment will be different as you progress through the level).
 
-I'd never done any camera programming before, or scripted any cutscenes, and yet I became the narrative programmer. This involves designing the puzzle system to play cutscenes when a puzzle is solved.
+This was also the largest, and most spread out team that I'd worked with (the team numbered almost 20 people, and spanned across multiple time zones). I learned a lot about communicating with people of various backgrounds and disciplines. 
