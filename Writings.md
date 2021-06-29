@@ -1,6 +1,6 @@
 ---
 layout: category
-title: "Art and Writing"
+title: "Writings"
 category: OtherWorks
 ---
 

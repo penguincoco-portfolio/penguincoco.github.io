@@ -19,12 +19,22 @@ I began this process on the 5th of October, 2020, and it may take a long time to
 
 ### **Project Gallery and Progress**
 
-![Progress in Unreal](/assets/artwork/MyGames/InkopolisSquareRecreation/Recreation_12Mar.png)
-![Progress in Unreal](/assets/artwork/MyGames/InkopolisSquareRecreation/Recreation_12Mar2.png)
-![Progress in Unreal](/assets/artwork/MyGames/InkopolisSquareRecreation/Recreation_12Mar3.png)
-![Progress in Unreal](/assets/artwork/MyGames/InkopolisSquareRecreation/Recreation_12Mar4.png)
+All individual models uploaded to ArtStation! 
+[![ArtStation](/assets/artwork/OtherWorks/Art/ArtStation_CoverImage.png)](https://www.artstation.com/penguincoco)
 
-_Project update, as of 12 March, 2021_
+![Progress in Unreal](/assets/artwork/MyGames/InkopolisSquareRecreation/Recreation_29June.png)
+![Progress in Unreal](/assets/artwork/MyGames/InkopolisSquareRecreation/Recreation_29June_2.png)
+![Progress in Unreal](/assets/artwork/MyGames/InkopolisSquareRecreation/Recreation_29June_3.png)
+![Progress in Unreal](/assets/artwork/MyGames/InkopolisSquareRecreation/Recreation_29June_4.png)
+![Progress in Unreal](/assets/artwork/MyGames/InkopolisSquareRecreation/Recreation_29June_5.png)
+![Progress in Unreal](/assets/artwork/MyGames/InkopolisSquareRecreation/Recreation_29June_6.png)
+![Progress in Unreal](/assets/artwork/MyGames/InkopolisSquareRecreation/Recreation_29June_7.png)
+![Progress in Unreal](/assets/artwork/MyGames/InkopolisSquareRecreation/Recreation_29June_8.png)
+![Progress in Unreal](/assets/artwork/MyGames/InkopolisSquareRecreation/Recreation_29June_9.png)
+![Progress in Unreal](/assets/artwork/MyGames/InkopolisSquareRecreation/Recreation_29June_10.png)
+![Progress in Unreal](/assets/artwork/MyGames/InkopolisSquareRecreation/Recreation_29June_11.png)
+
+_Project update, as of 29 June, 2021_
 
 ________________________________________________________________________________________________________
 
@@ -35,46 +45,6 @@ ________________________________________________________________________________
 ![Progress in Unreal](/assets/artwork/MyGames/InkopolisSquareRecreation/Recreation_17Jan4.png)
 
 _Project update, as of 17 Janauary, 2021_
-
-________________________________________________________________________________________________________
-
-
-![Shella Fresh](/assets/artwork/MyGames/InkopolisSquareRecreation/ShellaFresh_WIP1.1.jpg)
-![Shella Fresh](/assets/artwork/MyGames/InkopolisSquareRecreation/ShellaFresh_WIP1.2.jpg)
-![Shella Fresh](/assets/artwork/MyGames/InkopolisSquareRecreation/ShellaFresh_WIP1.3.jpg)
-![Shella Fresh](/assets/artwork/MyGames/InkopolisSquareRecreation/ShellaFresh_WIP1.4.jpg)
-
-_Completed model for Ye Olde Cloth Shoppe and a view of the Level in UE4!_
-
-________________________________________________________________________________________________________
-
-
-![Clothes Shoppe](/assets/artwork/MyGames/InkopolisSquareRecreation/InkopolisSquareRecreation_21Oct.jpg)
-![Clothes Shoppe](/assets/artwork/MyGames/InkopolisSquareRecreation/ClothesShoppe_WIP3.1.jpg)
-![Clothes Shoppe](/assets/artwork/MyGames/InkopolisSquareRecreation/ClothesShoppe_WIP3.2.jpg)
-![Clothes Shoppe](/assets/artwork/MyGames/InkopolisSquareRecreation/ClothesShoppe_WIP3.3.jpg)
-![Clothes Shoppe](/assets/artwork/MyGames/InkopolisSquareRecreation/ClothesShoppe_WIP3.4.jpg)
-
-_Completed model for Ye Olde Cloth Shoppe and a view of the Level in UE4!_
-
-________________________________________________________________________________________________________
-
-
-![Crust Bucket WIP 1](/assets/artwork/MyGames/InkopolisSquareRecreation/CrustBucket_WIP6.1.jpg)
-![Crust Bucket WIP 2](/assets/artwork/MyGames/InkopolisSquareRecreation/CrustBucket_WIP6.2.jpg)
-![Crust Bucket WIP 3](/assets/artwork/MyGames/InkopolisSquareRecreation/CrustBucket_WIP6.3.jpg)
-![Crust Bucket WIP 4](/assets/artwork/MyGames/InkopolisSquareRecreation/CrustBucket_WIP6.5.jpg)
-![Crust Bucket WIP 5](/assets/artwork/MyGames/InkopolisSquareRecreation/CrustBucket_WIP6.8.jpg)
-
-_______________________________________________________________________________________________________
-
-
-![Crust Bucket WIP 1](/assets/artwork/MyGames/InkopolisSquareRecreation/CrustBucket_WIP2.jpg)
-![Crust Bucket WIP 2](/assets/artwork/MyGames/InkopolisSquareRecreation/CrustBucket_WIP2.4.jpg)
-![Crust Bucket WIP 3](/assets/artwork/MyGames/InkopolisSquareRecreation/CrustBucket_WIP2.3.jpg)
-![Crust Bucket WIP 4](/assets/artwork/MyGames/InkopolisSquareRecreation/CrustBucket_WIP2.2.jpg)
-
-_Added a bunch of small details to the front of the truck, and it's finally starting to look like Crusty Sean's food truck! Also cut out the windows and did some material testing with the glass, although that isn't entirely visible in these screenshots :(_
 
 _______________________________________________________________________________________________________
 
